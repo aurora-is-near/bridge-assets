@@ -17,7 +17,7 @@ To add a new asset, please follow these steps:
 2. Put an SVG icon to `tokens/` for your token with a name that matches the lower-case `symbol` of your ERC-20 token (e.g.
    `usdt.svg`).
 3. Create a JSON file in `tokens/` with a name that matches the lower-case `symbol` of your ERC-20 token (e.g. `usdt.json`) and fill
-   it with the following metadata (check the `example_token.json` file template):
+   it with the following metadata (check the `tokens/example_token.json` file template):
    * `ethereum_address`: address of your ERC-20 token (with '0x' prefix) in Ethereum.
    * [OPTIONAL] `aurora_address`: address of your ERC-20 token (with '0x' prefix) in Aurora.
    * `name`: the human-readable name of the token. Must match the `name` of your ERC-20 token.
