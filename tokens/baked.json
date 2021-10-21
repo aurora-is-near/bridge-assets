@@ -1,10 +1,10 @@
 {
     "ethereum_address": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
-    "aurora_address": "",
+    "aurora_address": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
     "name": "BakedToken",
     "symbol": "BAKED",
     "decimals": 18,
-    "icon": "data:image/svg+xml;base64,",
+    "icon": "http://res.cloudinary.com/dswdlvq6b/image/upload/v1634828024/hregigyheev1rgmbwi86.svg",
     "reference": "",
     "reference_hash": ""
 }
