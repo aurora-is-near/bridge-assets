@@ -1,6 +1,6 @@
 {
     "ethereum_address": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
-    "aurora_address": "",
+    "aurora_address": "0x8973c9ec7b79fe880697cdbca744892682764c37",
     "name": "BakedToken",
     "symbol": "BAKED",
     "decimals": 18,
