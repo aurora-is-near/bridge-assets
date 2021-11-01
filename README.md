@@ -38,4 +38,4 @@ To add a new asset, please follow these steps:
 5. Aurora team will review your PR and update the metadata of your token.
 
 ## Adding a new asset (Testnet)
-In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`.
+In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`. 
