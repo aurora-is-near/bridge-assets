@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-16T22:49:22.946924",
+  "timestamp": "2021-11-16T23:17:18+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
