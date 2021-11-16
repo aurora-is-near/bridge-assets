@@ -95,7 +95,7 @@ class Aurora:
             logoURI=Aurora.LOGO_URI,
             keywords=Aurora.KEYWORDS,
             tags=Aurora.TAGS,
-            timestamp=str(datetime.datetime.now()),
+            timestamp=datetime.datetime.now().isoformat(),
             tokens=self.tokens,
             version=Aurora.VERSION
         )
