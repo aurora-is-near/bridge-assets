@@ -1,0 +1,225 @@
+{
+  "name": "Aurora",
+  "logoURI": "https://raw.githubusercontent.com/aurora-is-near/aurora-press-kit/master/Logos/SVG/aurora-stack.svg",
+  "keywords": [
+    "aurora",
+    "near",
+    "rainbow",
+    "bridge",
+    "audited",
+    "verified"
+  ],
+  "tags": {
+    "aurora": {
+      "name": "Native Aurora",
+      "description": "Tokens that were deployed initially on Aurora."
+    },
+    "near": {
+      "name": "Native NEAR",
+      "description": "Tokens that were deployed initially on NEAR. They have an equivalent token in Aurora."
+    },
+    "ethereum": {
+      "name": "Native Ethereum",
+      "description": "Tokens that were deployed initially on Ethereum. They have an equivalent token in NEAR and Aurora."
+    },
+    "bsc": {
+      "name": "Native BSC",
+      "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
+    }
+  },
+  "timestamp": "2021-11-16T23:17:18+00:00",
+  "tokens": [
+    {
+      "chainId": 1313161554,
+      "address": "0xe3520349f477a5f6eb06107066048508498a291b",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dai.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
+      "symbol": "PAD",
+      "name": "NearPad Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pad.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7821c773a12485b12a2b5b7bc451c3eb200986b1",
+      "symbol": "SUSHI",
+      "name": "SushiToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sushi.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wbtc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x1bc741235ec0ee86ad488fa49b69bb6c823ee7b7",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/uni.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x8973c9ec7b79fe880697cdbca744892682764c37",
+      "symbol": "BAKED",
+      "name": "BakedToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/baked.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x18921f1e257038e538ba24d49fa6495c8b1617bc",
+      "symbol": "REN",
+      "name": "Republic",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ren.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xabe9818c5fb5e751c4310be6f0f18c8d85f9bd7f",
+      "symbol": "CREAM",
+      "name": "Cream Finance",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/cream.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xdc9be1ff012d3c6da818d136a3b2e5fdd4442f74",
+      "symbol": "SNX",
+      "name": "Synthetix Network Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/snx.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xa64514a8af3ff7366ad3d5daa5a548eefcef85e0",
+      "symbol": "YFI",
+      "name": "yearn.finance",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/yfi.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+      "symbol": "USDT",
+      "name": "TetherUS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xdeacf0faa2b80af41470003b5f6cd113d47b4dcd",
+      "symbol": "COMP",
+      "name": "Compound",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/comp.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x94190d8ef039c670c6d6b9990142e0ce2a1e3178",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/link.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4e834cdcc911605227eedddb89fad336ab9dc00a",
+      "symbol": "AAVE",
+      "name": "Aave Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aave.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x1d1f82d8b8fc72f29a8c268285347563cb6cd8b3",
+      "symbol": "MKR",
+      "name": "Maker",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mkr.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xb59d0fdaf498182ff19c4e80c00ecfc4470926e2",
+      "symbol": "BAL",
+      "name": "Balancer",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bal.svg",
+      "tags": [
+        "ethereum"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
