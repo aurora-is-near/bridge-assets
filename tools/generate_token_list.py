@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Script to generate token list automatically from all token descriptions in the repository.
 # authoring-token-lists
