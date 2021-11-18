@@ -9,7 +9,7 @@ The json generated follows the format specified at: https://github.com/Uniswap/t
 import argparse
 import pathlib
 import json
-from os.path import join
+from os.path import join, isfile
 import jsonschema
 import datetime
 
@@ -51,14 +51,17 @@ class Aurora:
 
         self.tokens = []
 
-        # Load all tokens
-        for token in path.glob('*'):
+        # Load all tokens in alphabetical order and process only json files
+        list_of_tokens = sorted(
+            filter(
+                isfile,
+                path.glob('*.json')
+            )
+        )
+
+        for token in list_of_tokens:
             if token.name.startswith('EXAMPLE'):
                 # Ignore example token
-                continue
-
-            if not token.name.endswith('.json'):
-                # Only process json files
                 continue
 
             token_desc = self.load_token(token)
