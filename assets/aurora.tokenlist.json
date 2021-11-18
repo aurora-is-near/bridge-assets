@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-18T03:06:34+00:00",
+  "timestamp": "2021-11-18T03:28:55+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -127,6 +127,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
