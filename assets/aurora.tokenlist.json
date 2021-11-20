@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-18T11:44:17+00:00",
+  "timestamp": "2021-11-20T01:05:46+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -102,6 +102,28 @@
       "name": "Dai Stablecoin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dai.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xda2585430fef327ad8ee44af8f1f989a2a91a3d2",
+      "symbol": "FRAX",
+      "name": "Frax",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/frax.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xc8fdd32e0bf33f0396a18209188bb8c6fb8747d2",
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/fxs.svg",
       "tags": [
         "ethereum"
       ]
