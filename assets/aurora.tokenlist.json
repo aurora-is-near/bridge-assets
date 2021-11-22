@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-20T01:05:46+00:00",
+  "timestamp": "2021-11-22T11:35:57+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -146,6 +146,17 @@
       "name": "Maker",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mkr.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x74974575d2f1668c63036d51ff48dbaa68e52408",
+      "symbol": "MODA",
+      "name": "moda",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/moda.svg",
       "tags": [
         "ethereum"
       ]
