@@ -4,7 +4,7 @@
     "name": "Chronicle",
     "symbol": "XNL",
     "decimals": 18,
-    "icon": "",
+    "icon": "data:image/svg+xml,%3Csvg width='35' height='25' viewBox='0 0 35 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E %3Cpath d='M25.1462 18.6539L0 5.4231V11.2692L25.1462 24.5V18.6539Z' fill='%2300E1C8'/%3E %3Cpath d='M8.9788 18.6536L34.125 5.42285V11.269L8.9788 24.4998V18.6536Z' fill='%2300E1C8'/%3E %3Cpath d='M26.9453 0.5V4.91154L17.0664 10.0385V5.62692L26.9453 0.5Z' fill='url(%23paint0_linear_8994:18781)'/%3E %3Cdefs%3E %3ClinearGradient id='paint0_linear_8994:18781' x1='17.0664' y1='6.65385' x2='39.2191' y2='6.65385' gradientUnits='userSpaceOnUse'%3E %3Cstop stop-color='%23D06CFF'/%3E %3Cstop offset='1' stop-color='%235900B9'/%3E %3C/linearGradient%3E %3C/defs%3E %3C/svg%3E",
     "reference": "",
     "reference_hash": ""
 }

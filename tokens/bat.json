@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "aurora_address": "",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1719' width='2500' height='2500'%3E%3Cpath fill='%23662d91' d='M2000 1716.64l-995.21-569.86L0 1719l2000-2.36z'/%3E%3Cpath fill='%239e1f63' d='M1005.11 0l-.32 1146.78L2000 1716.64 1005.11 0z'/%3E%3Cpath fill='%23ff5000' d='M0 1719l1004.79-572.22L1005.11 0 0 1719z'/%3E%3Cpath fill='%23fff' stroke='%23ff5000' stroke-miterlimit='10' stroke-width='25' d='M1002.75 695.67L591.9 1381.92h823.54l-412.69-686.25z'/%3E%3C/svg%3E",
+    "reference": "",
+    "reference_hash": ""
+}
