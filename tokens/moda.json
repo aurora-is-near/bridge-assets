@@ -4,7 +4,7 @@
   "name": "moda",
   "symbol": "MODA",
   "decimals": 18,
-  "icon": "",
+  "icon": "data:image/svg+xml,%0A%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg version='1.1' viewBox='0 0 36 36' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3E01__assets / logo / moda-token copy%3C/title%3E%3Cdefs%3E%3ClinearGradient id='a' y1='31.774%25' y2='75.164%25'%3E%3Cstop stop-color='%23F92494' offset='0'/%3E%3Cstop stop-color='%2371F8F8' offset='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(-16 -17)' fill='url(%23a)'%3E%3Cg transform='translate(16 17)'%3E%3Cpath d='m18 0c9.9411 0 18 8.0589 18 18 0 2.0183-0.3322 3.9591-0.9449 5.7706l-0.58857-1.4506h-4.1507l1.4336 3.78 2.3292 6.252e-4c-2.9644 5.8723-9.0512 9.8994-16.079 9.8994s-13.114-4.0271-16.079-9.8994l2.3402-6.252e-4 1.4225-3.78h-4.121l-0.60978 1.4756c-0.61812-1.8186-0.95338-3.768-0.95338-5.7956 0-9.9411 8.0589-18 18-18zm3.7895 22.32h-7.5789l1.5255 3.78h4.5778l1.4756-3.78zm6.0848-15.12h-3.684l-6.1903 14.175h4.6472l0.80021-2.1339 2.4566-6.2183 2.4846 6.2183 0.86568 2.1339h4.8509l-6.2309-14.175zm-16.105 0h-3.6842l-6.1903 14.175h4.6475l0.80021-2.1339 2.4564-6.2183 2.4846 6.2183 0.86568 2.1339h4.8509l-6.2307-14.175z'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
   "reference": "",
   "reference_hash": ""
 }
