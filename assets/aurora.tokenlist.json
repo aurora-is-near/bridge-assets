@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-22T11:35:57+00:00",
+  "timestamp": "2021-11-23T11:07:02+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -69,6 +69,17 @@
       "name": "Balancer",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bal.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x2b9025aecc5ce7a8e6880d3e9c6e458927ecba04",
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bat.svg",
       "tags": [
         "ethereum"
       ]
