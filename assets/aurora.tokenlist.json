@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-23T11:07:02+00:00",
+  "timestamp": "2021-11-24T22:33:03+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -152,6 +152,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xfca152a9916895bf564e3f26a611f9e1e6aa6e73",
+      "symbol": "LUNA",
+      "name": "Wrapped LUNA Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/luna.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x1d1f82d8b8fc72f29a8c268285347563cb6cd8b3",
       "symbol": "MKR",
       "name": "Maker",
@@ -263,6 +274,17 @@
       "name": "TetherUS",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x098d5b6a26bca1d71f2335805d71b244f94e8a5f",
+      "symbol": "UST",
+      "name": "Wrapped UST Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ust.svg",
       "tags": [
         "ethereum"
       ]
