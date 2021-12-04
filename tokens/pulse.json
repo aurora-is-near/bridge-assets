@@ -1,6 +1,7 @@
 {
     "ethereum_address": "0x52a047ee205701895ee06a375492490ec9c597ce",
-    "aurora_address": "",
+    "aurora_address": "0x8828a5047d093f6354e3fe29ffcb2761300dc994",
+
     "name": "Pulse",
     "symbol": "PULSE",
     "decimals": 18,
