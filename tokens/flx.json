@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
+    "aurora_address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+    "name": "Flux Token",
+    "symbol": "FLX",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='140px' height='140px' viewBox='0 0 140 140' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3EFlux Logo New%3C/title%3E%3Cdefs%3E%3CradialGradient cx='50%25' cy='0%25' fx='50%25' fy='0%25' r='248.533062%25' gradientTransform='translate(0.500000,0.000000),scale(1.000000,0.393939),rotate(90.000000),translate(-0.500000,-0.000000)' id='radialGradient-1'%3E%3Cstop stop-color='%23FE84FC' offset='0%25'%3E%3C/stop%3E%3Cstop stop-color='%232ED1FF' offset='100%25'%3E%3C/stop%3E%3C/radialGradient%3E%3C/defs%3E%3Cg id='logos' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cg id='Group' transform='translate(-143.000000, -251.000000)'%3E%3Cg id='Group-2' transform='translate(0.000000, 251.000000)'%3E%3Cg id='Flux-Logo' transform='translate(143.000000, 0.000000)'%3E%3Cg id='Flux-Logo-New' transform='translate(70.000000, 70.000000) rotate(90.000000) translate(-70.000000, -70.000000) '%3E%3Ccircle id='Oval' fill='%23FFFFFF' cx='70' cy='70' r='70'%3E%3C/circle%3E%3Crect id='Rectangle' fill='%230F0E25' transform='translate(70.000000, 83.000000) rotate(90.000000) translate(-70.000000, -83.000000) ' x='57' y='50' width='26' height='66' rx='13'%3E%3C/rect%3E%3Cpath d='M50,30 C57.1797017,30 63,35.8202983 63,43 L63,96 L63,96 L50,96 C42.8202983,96 37,90.1797017 37,83 L37,43 C37,35.8202983 42.8202983,30 50,30 Z' id='Rectangle' fill='%230F0E25'%3E%3C/path%3E%3Cpath d='M63,44 L76,44 C83.1797017,44 89,49.8202983 89,57 L89,97 C89,104.179702 83.1797017,110 76,110 C68.8202983,110 63,104.179702 63,97 L63,44 L63,44 Z' id='Rectangle' fill='url(%23radialGradient-1)'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
+    "reference": "",
+    "reference_hash": ""
+}
