@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-11-24T22:33:03+00:00",
+  "timestamp": "2021-12-09T00:36:50+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -119,6 +119,28 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
+      "symbol": "DODO",
+      "name": "DODO bird",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+      "symbol": "FLX",
+      "name": "Flux Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/flx.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xda2585430fef327ad8ee44af8f1f989a2a91a3d2",
       "symbol": "FRAX",
       "name": "Frax",
@@ -199,6 +221,17 @@
       "name": "NearPad Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pad.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x8828a5047d093f6354e3fe29ffcb2761300dc994",
+      "symbol": "PULSE",
+      "name": "Pulse",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pulse.svg",
       "tags": [
         "ethereum"
       ]
