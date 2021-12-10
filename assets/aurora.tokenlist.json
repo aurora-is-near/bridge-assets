@@ -27,7 +27,7 @@
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
     }
   },
-  "timestamp": "2021-12-09T00:36:50+00:00",
+  "timestamp": "2021-12-10T19:13:24+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -196,6 +196,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xd126b48c072f4668e944a8895bc74044d5f2e85b",
+      "symbol": "MNFT",
+      "name": "MANUFACTORY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mnft.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x74974575d2f1668c63036d51ff48dbaa68e52408",
       "symbol": "MODA",
       "name": "moda",
@@ -277,6 +288,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tri.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x984c2505a14da732d7271416356f535953610340",
+      "symbol": "UMINT",
+      "name": "YouMinter",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/umint.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
