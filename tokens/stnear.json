@@ -1,6 +1,7 @@
 {
     "ethereum_address": "",
     "aurora_address": "",
+    "near_address":"meta-pool.near",
     "name": "Staked NEAR",
     "symbol": "STNEAR",
     "decimals": 24,

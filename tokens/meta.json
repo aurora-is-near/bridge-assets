@@ -1,6 +1,7 @@
 {
     "ethereum_address": "",
     "aurora_address": "",
+    "near_address":"meta-token.near",
     "name": "Meta Token",
     "symbol": "$META",
     "decimals": 24,
