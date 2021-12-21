@@ -19,6 +19,7 @@ class Tags:
     NATIVE_NEAR = 'near'
     NATIVE_ETHEREUM = 'ethereum'
     NATIVE_BSC = 'bsc'
+    NATIVE_TERRA = 'terra'
 
 
 class Aurora:
@@ -43,6 +44,10 @@ class Aurora:
         Tags.NATIVE_BSC: {
             'name': 'Native BSC',
             'description': 'Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora.'
+        },
+        Tags.NATIVE_TERRA: {
+            'name': 'Native Terra',
+            'description': 'Tokens that were deployed initially on Terra. They have an equivalent token in Aurora.'
         }
     }
 
@@ -78,8 +83,11 @@ class Aurora:
 
         tags = []
 
-        if token_desc['ethereum_address'] != '':
+        if 'ethereum_address' in token_desc and token_desc['ethereum_address'] != '':
             tags.append(Tags.NATIVE_ETHEREUM)
+
+        if 'terra_address' in token_desc and token_desc['terra_address'] != '':
+            tags.append(Tags.NATIVE_TERRA)
 
         if token_desc['aurora_address'] == '':
             return None
