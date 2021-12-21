@@ -25,9 +25,13 @@
     "bsc": {
       "name": "Native BSC",
       "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
+    },
+    "terra": {
+      "name": "Native Terra",
+      "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
     }
   },
-  "timestamp": "2021-12-10T19:13:24+00:00",
+  "timestamp": "2021-12-21T15:20:49+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -38,6 +42,39 @@
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aave.svg",
       "tags": [
         "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x2BAe00C8BC1868a5F7a216E881Bae9e662630111",
+      "symbol": "ABR",
+      "name": "Allbridge",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
+      "symbol": "atLUNA",
+      "name": "Luna Terra",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/atluna.svg",
+      "tags": [
+        "terra"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
+      "symbol": "atUST",
+      "name": "UST Terra",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/atust.svg",
+      "tags": [
+        "terra"
       ]
     },
     {
@@ -157,6 +194,17 @@
       "name": "Frax Share",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/fxs.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E",
+      "symbol": "KSW",
+      "name": "KillSwitchToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ksw.svg",
       "tags": [
         "ethereum"
       ]
