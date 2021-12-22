@@ -10,9 +10,9 @@ Aurora team will ensure that all listed tokens contain the correct metadata.
 ## Adding a new asset
 To add a new asset, please follow these steps:
 
-1. First, you need to bridge your token using [Rainbow Bridge](https://ethereum.bridgetonear.org/). After this step you
-   will have a NEAR NEP-141 token matching your ERC-20 token having the following address:
-   `<YOUR_ERC_20_TOKEN_ADDRESS>.factory.bridge.near` (e.g. the USDT token will have the following address:
+1. First, complete the deployment steps at [rainbowbridge.app/deploy](https://rainbowbridge.app/deploy).
+   The app will inform the bridged token's deployment addresses and on-chain metadata.
+   For example, NEP-141 tokens bridged from Ethereum ERC-20 have the format: `<YOUR_ERC_20_TOKEN_ADDRESS>.factory.bridge.near` (e.g. the USDT token will have the following address:
    `dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near`.
 2. Put an SVG icon to `tokens/` for your token with a name that matches the lower-case `symbol` of your ERC-20 token (e.g.
    `usdt.svg`).
@@ -35,7 +35,7 @@ To add a new asset, please follow these steps:
    ERC-20: https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
    NEP-141: https://explorer.mainnet.near.org/accounts/dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near
    ```
-5. Aurora team will review your PR and update the metadata of your token.
+5. Aurora team will review your PR and update the metadata of your token. Always check the deployment status [here](https://rainbowbridge.app/deploy) (contract addresses, on-chain metadata, and storage registration when bridging to Aurora )
 
 ## Adding a new asset (Testnet)
 In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`. 
