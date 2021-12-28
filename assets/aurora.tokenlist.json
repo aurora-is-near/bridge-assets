@@ -31,7 +31,7 @@
       "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
     }
   },
-  "timestamp": "2021-12-25T01:18:59+00:00",
+  "timestamp": "2021-12-27T23:59:53+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -373,6 +373,17 @@
       "name": "Republic",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ren.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
+      "symbol": "PAD",
+      "name": "SmartPad Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/smartpad.svg",
       "tags": [
         "ethereum"
       ]
