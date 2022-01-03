@@ -1,0 +1,10 @@
+{
+  "ethereum_address": "0x202E3cDa941DB6c4c249E9c232e6Ad91A1083B60",
+  "aurora_address": "0xa509c1dd04fb63c19404dc73c627a5038d11f3d0",
+  "name": "Sweat",
+  "symbol": "SWT",
+  "decimals": 18,
+  "icon": "data:image/svg+xml,%3Csvg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='100' height='100' rx='50' fill='%23FF0D75'/%3E%3Cg clip-path='url(%23clip0_283_2788)'%3E%3Cpath d='M39.4653 77.5455L19.0089 40.02L35.5411 22.2805L55.9975 59.806L39.4653 77.5455Z' stroke='white' stroke-width='10'/%3E%3Cpath d='M66.0253 77.8531L45.569 40.3276L62.1012 22.5882L82.5576 60.1136L66.0253 77.8531Z' stroke='white' stroke-width='10'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_283_2788'%3E%3Crect width='100' height='56' fill='white' transform='translate(0 22)'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A",
+  "reference": "",
+  "reference_hash": ""
+}
