@@ -79,6 +79,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56",
+      "symbol": "HAK",
+      "name": "Hakuna Matata",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/HAK.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
       "symbol": "atLUNA",
       "name": "Luna Terra",
