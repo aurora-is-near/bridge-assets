@@ -487,6 +487,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xf34d508bac379825255cc80f66cbc89dfeff92e4",
+      "symbol": "WSTR",
+      "name": "WrappedStar",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wstr.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xa64514a8af3ff7366ad3d5daa5a548eefcef85e0",
       "symbol": "YFI",
       "name": "yearn.finance",
