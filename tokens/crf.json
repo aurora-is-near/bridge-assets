@@ -1,10 +1,10 @@
 {
     "ethereum_address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
-    "aurora_address": "",
+    "aurora_address": "0x026dda7f0f0a2e42163c9c80d2a5b6958e35fc49",
     "name": "Crafting Finance",
     "symbol": "CRF",
     "decimals": 18,
-    "icon": "",
+    "icon": "data:image/svg+xml,%3Csvg width='1000' height='1000' viewBox='0 0 1000 1000' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='500' cy='500' r='500' fill='%233EAFFA'/%3E%3Cpath opacity='0.5' d='M404.7 280.206C604.639 348.006 646.639 543.719 589.539 675.642C589.539 675.642 546.175 645.425 418.798 665.954C372.387 673.435 300.267 687.281 233.258 716.19C203.466 726.689 213.851 722.374 187.502 734.371C358.531 630.406 413.022 443.077 404.7 280.206Z' fill='white'/%3E%3Cpath d='M555.269 192.295C807.137 293.791 823.382 568.354 713.758 710.392C590.941 664.754 437.344 635.497 233.052 716.421C434.819 606.722 555.502 381.14 555.269 192.295Z' fill='white'/%3E%3C/svg%3E",
     "reference": "",
     "reference_hash": ""
 }
