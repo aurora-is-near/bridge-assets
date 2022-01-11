@@ -31,7 +31,7 @@
       "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
     }
   },
-  "timestamp": "2021-12-27T23:59:53+00:00",
+  "timestamp": "2022-01-11T02:25:19+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -50,9 +50,46 @@
       "symbol": "ABR",
       "name": "Allbridge",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr.svg",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_abr.svg",
       "tags": [
-        "ethereum"
+        "ethereum",
+        "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
+      "symbol": "atLUNA",
+      "name": "Luna Terra",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_atluna.svg",
+      "tags": [
+        "terra",
+        "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
+      "symbol": "atUST",
+      "name": "UST Terra",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_atust.svg",
+      "tags": [
+        "terra",
+        "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
+      "symbol": "PAD",
+      "name": "SmartPad Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_smartpad.svg",
+      "tags": [
+        "ethereum",
+        "allbridge"
       ]
     },
     {
@@ -75,28 +112,6 @@
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/angle.svg",
       "tags": [
         "ethereum"
-      ]
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
-      "symbol": "atLUNA",
-      "name": "Luna Terra",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/atluna.svg",
-      "tags": [
-        "terra"
-      ]
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
-      "symbol": "atUST",
-      "name": "UST Terra",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/atust.svg",
-      "tags": [
-        "terra"
       ]
     },
     {
@@ -167,6 +182,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x026dda7f0f0a2e42163c9c80d2a5b6958e35fc49",
+      "symbol": "CRF",
+      "name": "Crafting Finance",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/crf.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xe3520349f477a5f6eb06107066048508498a291b",
       "symbol": "DAI",
       "name": "Dai Stablecoin",
@@ -219,6 +245,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x6454e4a4891c6b78a5a85304d34558dda5f3d6d8",
+      "symbol": "JUMBO",
+      "name": "Jumbo Exchange",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/jumbo.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -315,6 +350,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x90eb16621274fb47a071001fbbf7550948874cb5",
+      "symbol": "NFD",
+      "name": "Feisty Doge NFT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nfd.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x449f661c53aE0611a24c2883a910A563A7e42489",
       "symbol": "nNECC",
       "name": "Wrapped Staked Necc",
@@ -373,17 +419,6 @@
       "name": "Republic",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ren.svg",
-      "tags": [
-        "ethereum"
-      ]
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
-      "symbol": "PAD",
-      "name": "SmartPad Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/smartpad.svg",
       "tags": [
         "ethereum"
       ]
@@ -481,6 +516,28 @@
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wbtc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xf34d508bac379825255cc80f66cbc89dfeff92e4",
+      "symbol": "WSTR",
+      "name": "WrappedStar",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wstr.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7ca1c28663b76cfde424a9494555b94846205585",
+      "symbol": "XNL",
+      "name": "Chronicle",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/xnl.svg",
       "tags": [
         "ethereum"
       ]
