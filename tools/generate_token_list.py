@@ -20,6 +20,7 @@ class Tags:
     NATIVE_ETHEREUM = 'ethereum'
     NATIVE_BSC = 'bsc'
     NATIVE_TERRA = 'terra'
+    BRIDGE_ALLBRIDGE = 'allbridge'
 
 
 class Aurora:
@@ -88,6 +89,9 @@ class Aurora:
 
         if 'terra_address' in token_desc and token_desc['terra_address'] != '':
             tags.append(Tags.NATIVE_TERRA)
+
+        if 'bridge' in token_desc and token_desc['bridge'].lower() == 'allbridge':
+            tags.append(Tags.BRIDGE_ALLBRIDGE)
 
         if token_desc['aurora_address'] == '':
             return None
