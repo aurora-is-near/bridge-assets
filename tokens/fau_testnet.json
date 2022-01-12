@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0xba62bcfcaafc6622853cca2be6ac7d845bc0f2dc",
+    "aurora_address": "0xf93cd0e464f74c240d8ebb7ed55ce6b43452f913",
+    "name": "FaucetToken",
+    "symbol": "FAU",
+    "decimals": 18,
+    "icon": "",
+    "reference": "",
+    "reference_hash": ""
+}
