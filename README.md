@@ -28,11 +28,11 @@ To add a new asset, please follow these steps:
    * [OPTIONAL] `reference`: a link to a valid JSON file containing various keys offering supplementary details on the token. Example: "/ipfs/QmdmQXB2mzChmMeKY47C43LxUdg1NDJ5MWcKMKxDu7RgQm", "https://example.com/token.json", etc. If the information given in this document conflicts with the on-chain attributes, the values in reference shall be considered the source of truth. If you don't fill this field, please leave it empty and this field will be empty for your NEP-141 token.
    * [OPTIONAL] `reference_hash`: the base64-encoded sha256 hash of the JSON file contained in the reference field. This is to guard against off-chain tampering. If you don't fill this field, please leave it empty and this field will be empty for your NEP-141 token.
    * [OPTIONAL] `bridge": If your asset is being bridged not via Rainbow Bridge but using some other bridge, make sure to fill this field with the name of the used bridge (e.g. for the Allbridge tokens it will be "Allbridge")
-4. Fire a pull request having the following name: "Add <SYMBOL_OF_YOUR_ERC20_TOKEN> metadata" (e.g. "Add USDT metadata")
+4. Fire a pull request having the following name: "Add <SYMBOL_OF_YOUR_ERC20_TOKEN> token metadata" (e.g. "Add USDT token metadata")
    having the previously mentioned files (JSON and SVG) in PR and having the content following the template:
 
    ```
-   # Add USDT metadata
+   # Add USDT token metadata
 
    ERC-20: https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
    NEP-141: https://explorer.mainnet.near.org/accounts/dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near
