@@ -31,8 +31,17 @@
       "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
     }
   },
-  "timestamp": "2022-01-11T02:25:19+00:00",
+  "timestamp": "2022-01-19T16:04:39+00:00",
   "tokens": [
+    {
+      "chainId": 1313161554,
+      "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56",
+      "symbol": "HAK",
+      "name": "Hakuna Matata",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/HAK.svg",
+      "tags": []
+    },
     {
       "chainId": 1313161554,
       "address": "0x4e834cdcc911605227eedddb89fad336ab9dc00a",
@@ -48,7 +57,7 @@
       "chainId": 1313161554,
       "address": "0x2BAe00C8BC1868a5F7a216E881Bae9e662630111",
       "symbol": "ABR",
-      "name": "Allbridge",
+      "name": "Allbridge (Allbridge)",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_abr.svg",
       "tags": [
@@ -60,7 +69,7 @@
       "chainId": 1313161554,
       "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
       "symbol": "atLUNA",
-      "name": "Luna Terra",
+      "name": "Luna Terra (Allbridge)",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_atluna.svg",
       "tags": [
@@ -72,7 +81,7 @@
       "chainId": 1313161554,
       "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
       "symbol": "atUST",
-      "name": "UST Terra",
+      "name": "UST Terra (Allbridge)",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_atust.svg",
       "tags": [
@@ -82,13 +91,35 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x5C92A4A7f59A9484AFD79DbE251AD2380E589783",
+      "symbol": "abBUSD",
+      "name": "BUSD BSC (Allbridge)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_busd.svg",
+      "tags": [
+        "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
       "symbol": "PAD",
-      "name": "SmartPad Token",
+      "name": "SmartPad Token (Allbridge)",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_smartpad.svg",
       "tags": [
         "ethereum",
+        "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x0f00576d07B594Bdc1caf44b6014A6A02E5AFd48",
+      "symbol": "SOL",
+      "name": "SOL (Allbridge)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_sol.svg",
+      "tags": [
         "allbridge"
       ]
     },
@@ -154,6 +185,17 @@
       "name": "Basic Attention Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bat.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xe4baf0af161bf03434d1c5a53957981493c12c99",
+      "symbol": "bHOME",
+      "name": "bHOME",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bhome.svg",
       "tags": [
         "ethereum"
       ]
@@ -367,6 +409,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nnecc.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x951cfdc9544b726872a8faf56792ef6704731aae",
+      "symbol": "OCT",
+      "name": "Octopus Network Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/oct.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
