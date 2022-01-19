@@ -66,8 +66,9 @@ class Aurora:
         )
 
         for token in list_of_tokens:
-            if token.name.startswith('EXAMPLE'):
-                # Ignore example token
+            token_file_name = token.name[:-len('.json')]
+            # Ignore example and testnet tokens
+            if token_file_name.startswith('EXAMPLE') or token_file_name.endswith('_testnet'):
                 continue
 
             token_desc = self.load_token(token)
