@@ -2,7 +2,7 @@
     "ethereum_address": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
     "aurora_address": "0xe4baf0af161bf03434d1c5a53957981493c12c99",
     "name": "bHOME",
-    "symbol": "BHOME",
+    "symbol": "bHOME",
     "decimals": 6,
     "icon": "data:image/svg+xml,%3Csvg width='32' height='32' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 111.4 104.2'%3E%3Cpath d='M90 76h7V62h-7v14m0 7v-7h-7v7h7m-20 0v7h13v-7H70m-28 7v7h28v-7H42M28 76h-7v7h7v-7m-7 0V62h-7v14h7m21 7H28v7h14v-7M28 14v7h14v-7H28m0 7h-7v7h7v-7m42-7V7H42v7h28M14 42H7v20h7V42m0-14v14h7V28h-7m90 14h-7v20h7V42m-7-14h-7v14h7V28m-7-7h-7v7h7v-7m-7 0v-7H70v7h13z' fill='%23fff641'/%3E%3Cpath d='M90 83h-7v7h7v-7m0-7v7h7v-7h-7m14-14h-7v14h7V62M14 76V62H7v14h7m56 14v7h13v-7H70m-28 7v-7H28v7h14m0 0v7h28v-7H42M21 83v-7h-7v7h7m7 0h-7v7h7v-7m0-76v7h14V7H28m-7 14h7v-7h-7v7M70 7V0H42v7h28M14 21v7h7v-7h-7M7 42H0v20h7V42m7 0V28H7v14h7m97 0h-7v20h7V42M97 28v14h7V28h-7M83 14V7H70v7h13m0 0v7h7v-7h-7m14 7h-7v7h7v-7z' fill='%23ff9901'/%3E%3Cpath d='M42 83v7h28v-7H42M21 42h-7v20h7V42m49-21v-7H42v7h28m27 21h-7v20h7V42z' fill='%23fffd79'/%3E%3Cpath d='M90 42V28h-7v-7H28v7h-7v48h7v7h55v-7h7V42z' fill='%23fff'/%3E%3Cg%3E%3Cpath d='M42 42h3v20h-3v14h7V62h3V42h-3V28h-7v14z' fill='%23b70501'/%3E%3Cpath d='M35 28h-7v14h4v20h-4v14h7V62h3V42h-3V28z' fill='%23660200'/%3E%3Cpath d='M42 28h-7v14h3v20h-3v14h7V62h3V42h-3V28z' fill='%23ec5252'/%3E%3Cpath d='M80 49h7V35h-7v-7H52v7h21v14H52v7h21v13H52v7h28v-7h7V56h-7v-7z'/%3E%3C/g%3E%3C/svg%3E",
     "reference": "",
