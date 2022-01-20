@@ -49,6 +49,10 @@ class Aurora:
         Tags.NATIVE_TERRA: {
             'name': 'Native Terra',
             'description': 'Tokens that were deployed initially on Terra. They have an equivalent token in Aurora.'
+        },
+        Tags.BRIDGE_ALLBRIDGE: {
+            'name': 'Bridge:Allbridge',
+            'description': 'Tokens that were bridged using Allbridge',
         }
     }
 
