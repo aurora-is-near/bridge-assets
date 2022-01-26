@@ -438,6 +438,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
+      "symbol": "MECHA",
+      "name": "Mecha Tracker",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mecha.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
       "symbol": "PAD",
       "name": "NearPad Token",
