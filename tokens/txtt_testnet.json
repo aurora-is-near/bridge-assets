@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0xFFa5c2dc58290f7675C48c2BD60ca6ad04A23684",
+    "aurora_address": "0x8acdea361c3cab385be505b3c6416d250ef57d52",
+    "name": "TXTToken",
+    "symbol": "TXTT",
+    "decimals": 18,
+    "icon": "",
+    "reference": "",
+    "reference_hash": "",
+    "near_address": "ffa5c2dc58290f7675c48c2bd60ca6ad04a23684.factory.goerli."
+}
