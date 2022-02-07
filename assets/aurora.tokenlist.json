@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-01-22T13:24:16+00:00",
+  "timestamp": "2022-02-07T19:29:56+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -153,6 +153,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xb4530aa877d25e51c18677753acd80ffa54009b2",
+      "symbol": "AVRIT",
+      "name": "Avrit Learning",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/avrit.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x8973c9ec7b79fe880697cdbca744892682764c37",
       "symbol": "BAKED",
       "name": "BakedToken",
@@ -188,7 +197,7 @@
       "chainId": 1313161554,
       "address": "0xe4baf0af161bf03434d1c5a53957981493c12c99",
       "symbol": "bHOME",
-      "name": "bHOME",
+      "name": "bHome",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bhome.svg",
       "tags": [
@@ -336,6 +345,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
+      "symbol": "MECHA",
+      "name": "Mecha",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mecha.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x1d1f82d8b8fc72f29a8c268285347563cb6cd8b3",
       "symbol": "MKR",
       "name": "Maker",
@@ -374,15 +392,6 @@
       "name": "Necc Dollars",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ndol.svg",
-      "tags": []
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
-      "symbol": "wNEAR",
-      "name": "Wrapped NEAR fungible token",
-      "decimals": 24,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
       "tags": []
     },
     {
@@ -493,6 +502,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x1BDA7007C9e3Bc33267E883864137aF8eb53CC2D",
+      "symbol": "SOLACE",
+      "name": "solace",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/solace.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x7821c773a12485b12a2b5b7bc451c3eb200986b1",
       "symbol": "SUSHI",
       "name": "SushiToken",
@@ -568,6 +588,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+      "symbol": "WANNA",
+      "name": "WannaSwap",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wanna.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
       "symbol": "WBTC",
       "name": "Wrapped BTC",
@@ -576,6 +605,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "wNEAR",
+      "name": "Wrapped NEAR fungible token",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wnear.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -613,7 +651,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
