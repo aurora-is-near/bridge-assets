@@ -35,8 +35,17 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-02-07T19:29:56+00:00",
+  "timestamp": "2022-02-10T23:09:53+00:00",
   "tokens": [
+    {
+      "chainId": 1313161554,
+      "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
+      "symbol": "$META",
+      "name": "Meta Token",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/$meta.svg",
+      "tags": []
+    },
     {
       "chainId": 1313161554,
       "address": "0x4e834cdcc911605227eedddb89fad336ab9dc00a",
@@ -261,6 +270,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xd5c997724e4b5756d08e6464c01afbc5f6397236",
+      "symbol": "FAME",
+      "name": "FAME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/fame.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
       "symbol": "FLX",
       "name": "Flux Token",
@@ -447,6 +467,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xc2aa4b56e325266e32582f5f5cece7e88f0c11d2",
+      "symbol": "PACHA",
+      "name": "PachaVerse DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pacha.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
       "symbol": "PAD",
       "name": "NearPad Token",
@@ -510,6 +541,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x07f9f7f963c5cd2bbffd30ccfb964be114332e30",
+      "symbol": "STNEAR",
+      "name": "Staked NEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/stnear.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -651,7 +691,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
