@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-02-10T23:09:53+00:00",
+  "timestamp": "2022-02-23T13:49:36+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -212,6 +212,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x130e6203f05805cd8c44093a53c7b50775eb4ca3",
+      "symbol": "BIVE",
+      "name": "Bizverse",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bive.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -657,6 +666,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x99ec8f13b2afef5ec49073b9d20df109d25f78c0",
+      "symbol": "WOO",
+      "name": "Wootrade Network",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/woo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xf34d508bac379825255cc80f66cbc89dfeff92e4",
       "symbol": "WSTR",
       "name": "WrappedStar",
@@ -691,7 +711,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
