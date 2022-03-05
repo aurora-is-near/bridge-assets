@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-02-23T13:49:36+00:00",
+  "timestamp": "2022-03-05T21:15:09+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -509,6 +509,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+      "symbol": "POLAR",
+      "name": "POLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/polar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x8828a5047d093f6354e3fe29ffcb2761300dc994",
       "symbol": "PULSE",
       "name": "Pulse",
@@ -550,6 +559,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+      "symbol": "SPOLAR",
+      "name": "SPOLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/spolar.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -637,6 +655,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x17bC24b9bDD8A3E7486E3C3458a5954412F2ff60",
+      "symbol": "VRA",
+      "name": "Virtual Reality Asset",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/vra.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
       "symbol": "WANNA",
       "name": "WannaSwap",
@@ -699,6 +726,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
+      "symbol": "xTRI",
+      "name": "TriBar",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/xtri.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xa64514a8af3ff7366ad3d5daa5a548eefcef85e0",
       "symbol": "YFI",
       "name": "yearn.finance",
@@ -711,7 +747,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
