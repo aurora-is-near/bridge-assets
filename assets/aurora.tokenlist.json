@@ -291,6 +291,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+      "symbol": "aUSDO",
+      "name": "aUSDO",
+      "decimals": 8,
+      "logoURI": "https://oin.finance/logo/aUSDO.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x984c2505a14da732d7271416356f535953610340",
       "symbol": "UMINT",
       "name": "YouMinter",
