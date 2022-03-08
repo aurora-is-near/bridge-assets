@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-03-05T21:15:09+00:00",
+  "timestamp": "2022-03-08T20:56:18+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -221,6 +221,17 @@
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bive.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x9f1f933c660a1dc856f0e0fe058435879c5ccef0",
+      "symbol": "BSTN",
+      "name": "Bastion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bstn.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -747,7 +758,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
