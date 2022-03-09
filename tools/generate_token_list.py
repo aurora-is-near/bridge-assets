@@ -19,6 +19,8 @@ class Tags:
     NATIVE_NEAR = 'near'
     NATIVE_ETHEREUM = 'ethereum'
     NATIVE_BSC = 'bsc'
+    NATIVE_TERRA = 'terra'
+    BRIDGE_ALLBRIDGE = 'allbridge'
 
 
 class Aurora:
@@ -43,6 +45,14 @@ class Aurora:
         Tags.NATIVE_BSC: {
             'name': 'Native BSC',
             'description': 'Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora.'
+        },
+        Tags.NATIVE_TERRA: {
+            'name': 'Native Terra',
+            'description': 'Tokens that were deployed initially on Terra. They have an equivalent token in Aurora.'
+        },
+        Tags.BRIDGE_ALLBRIDGE: {
+            'name': 'Bridge Allbridge',
+            'description': 'Tokens that were bridged using Allbridge',
         }
     }
 
@@ -60,8 +70,9 @@ class Aurora:
         )
 
         for token in list_of_tokens:
-            if token.name.startswith('EXAMPLE'):
-                # Ignore example token
+            token_file_name = token.name[:-len('.json')]
+            # Ignore example and testnet tokens
+            if token_file_name.startswith('EXAMPLE') or token_file_name.endswith('_testnet'):
                 continue
 
             token_desc = self.load_token(token)
@@ -78,8 +89,14 @@ class Aurora:
 
         tags = []
 
-        if token_desc['ethereum_address'] != '':
+        if 'ethereum_address' in token_desc and token_desc['ethereum_address'] != '':
             tags.append(Tags.NATIVE_ETHEREUM)
+
+        if 'terra_address' in token_desc and token_desc['terra_address'] != '':
+            tags.append(Tags.NATIVE_TERRA)
+
+        if 'bridge' in token_desc and token_desc['bridge'].lower() == 'allbridge':
+            tags.append(Tags.BRIDGE_ALLBRIDGE)
 
         if token_desc['aurora_address'] == '':
             return None

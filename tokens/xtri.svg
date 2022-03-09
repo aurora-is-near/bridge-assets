@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="496px" viewBox="0 0 494 496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xTRI Logo 2</title>
+    <defs>
+        <linearGradient x1="26.6668214%" y1="11.473941%" x2="133.4948%" y2="143.731618%" id="linearGradient-memk6wle0w-1">
+            <stop stop-color="#00FFB1" offset="0%"></stop>
+            <stop stop-color="#7FB2FF" offset="29.8295635%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="20.8875394%" cy="94.9008553%" fx="20.8875394%" fy="94.9008553%" r="39.6153719%" gradientTransform="translate(0.208875,0.949009),scale(1.000000,0.995968),rotate(-52.001683),scale(1.000000,1.250805),translate(-0.208875,-0.949009)" id="radialGradient-memk6wle0w-2">
+            <stop stop-color="#C5CB16" offset="0%"></stop>
+            <stop stop-color="#D5F600" offset="54.2937853%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="17.318119%" cy="94.5193204%" fx="17.318119%" fy="94.5193204%" r="319.665001%" gradientTransform="translate(0.173181,0.945193),scale(1.000000,0.995968),rotate(-69.654557),scale(1.000000,1.250805),translate(-0.173181,-0.945193)" id="radialGradient-memk6wle0w-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E7FFE7" stop-opacity="0.095354916" offset="6.92166%"></stop>
+            <stop stop-color="#00FF00" offset="11.1224305%"></stop>
+            <stop stop-color="#00FFD1" offset="13.2565104%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="18.5822316%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="102.881663%" cy="81.4227078%" fx="102.881663%" fy="81.4227078%" r="298.019869%" gradientTransform="translate(1.028817,0.814227),scale(1.000000,0.995968),rotate(-135.027163),scale(1.000000,1.122109),translate(-1.028817,-0.814227)" id="radialGradient-memk6wle0w-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E7FFE7" stop-opacity="0.095354916" offset="6.92166%"></stop>
+            <stop stop-color="#00FF00" offset="11.1224305%"></stop>
+            <stop stop-color="#00FFD1" offset="13.2565104%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="25.171244%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="103.780817%" cy="73.2654346%" fx="103.780817%" fy="73.2654346%" r="39.5772682%" gradientTransform="translate(1.037808,0.732654),scale(1.000000,0.995968),rotate(-141.776847),scale(1.000000,1.250805),translate(-1.037808,-0.732654)" id="radialGradient-memk6wle0w-5">
+            <stop stop-color="#C5CB16" offset="0%"></stop>
+            <stop stop-color="#D5F600" offset="54.2937853%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="svg">
+            <g id="Gradients">
+                <ellipse id="Gradient-Linear-BG" fill="url(#linearGradient-memk6wle0w-1)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+                <ellipse id="Gradient-Radial-Yellow-1" fill="url(#radialGradient-memk6wle0w-2)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+                <ellipse id="Gradient-Radial-Rings-1" fill="url(#radialGradient-memk6wle0w-3)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+                <ellipse id="Gradient-Radial-Rings-2" fill="url(#radialGradient-memk6wle0w-4)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+                <ellipse id="Gradient-Radial-Yellow-2" fill="url(#radialGradient-memk6wle0w-5)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+            </g>
+            <g id="T" transform="translate(104.000000, 87.000000)" fill="#000000">
+                <rect id="Rectangle" x="0" y="0" width="285" height="56" rx="28"></rect>
+                <rect id="Rectangle" x="109" y="16" width="68" height="327" rx="34"></rect>
+            </g>
+            <ellipse id="Border" stroke="#000000" stroke-width="15" cx="247" cy="248" rx="239.5" ry="240.5"></ellipse>
+        </g>
+    </g>
+</svg>
