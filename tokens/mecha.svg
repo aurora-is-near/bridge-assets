@@ -1,0 +1,139 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svgjs="http://svgjs.com/svgjs"
+  width="512"
+  height="512"
+  x="0"
+  y="0"
+  viewBox="0 0 430 430"
+  style="enable-background: new 0 0 512 512"
+  xml:space="preserve"
+  class=""
+>
+  <g
+    transform="matrix(0.9999999999999999,0,0,0.9999999999999999,0,3.126388037344441e-13)"
+  >
+    <g xmlns="http://www.w3.org/2000/svg">
+      <path
+        d="m178 337.5 37 16.7 37-16.7-37-16.7z"
+        fill="#66cc33"
+        data-original="#597ba1"
+        class=""
+      ></path>
+      <path
+        d="m215 287.3 37-16.7-37-16.7-185 83.6 37 16.7 111-50.1 37 16.7 37-16.7z"
+        fill="#66cc33"
+        data-original="#597ba1"
+        class=""
+      ></path>
+      <path
+        d="m363 320.8-37 16.7-37-16.7-37 16.7 37 16.7-111 50.2 37 16.8 185-83.7z"
+        fill="#66cc33"
+        data-original="#597ba1"
+        class=""
+      ></path>
+      <g fill="#0f4c81">
+        <path
+          d="m215 354.2 37-16.7-37-16.7z"
+          fill="#479222"
+          data-original="#0f4c81"
+          class=""
+        ></path>
+        <path
+          d="m289 387.7 37-16.7v-33.5l-37-16.7z"
+          fill="#479222"
+          data-original="#0f4c81"
+          class=""
+        ></path>
+        <path
+          d="m215 320.8 37-16.8-37-16.7z"
+          fill="#479222"
+          data-original="#0f4c81"
+          class=""
+        ></path>
+        <path
+          d="m363 320.8v33.4l37-16.7z"
+          fill="#479222"
+          data-original="#0f4c81"
+          class=""
+        ></path>
+        <path
+          d="m215 253.9v33.4l37-16.7z"
+          fill="#479222"
+          data-original="#0f4c81"
+          class=""
+        ></path>
+      </g>
+      <path
+        d="m363 76.8-37 16.7-37-16.7-37 16.7v-66.9l-37-16.7-185 83.6v41.8l37 16.8 111-50.3v33.5l27.7 12.6-27.7 12.5v41.8l37 16.8 185-83.7-.5-41.6z"
+        fill="#b1f58e"
+        data-original="#c6d1e0"
+        class=""
+      ></path>
+      <path
+        d="m252 93.5v33.5l37-16.7z"
+        fill="#479222"
+        data-original="#0f4c81"
+        class=""
+      ></path>
+      <path
+        d="m178 60v33.5l37-16.7z"
+        fill="#479222"
+        data-original="#0f4c81"
+        class=""
+      ></path>
+      <path
+        d="m178 93.5v41.8l27.7 12.6 9.3-4.2v-33.4z"
+        fill="#479222"
+        data-original="#0f4c81"
+        class=""
+      ></path>
+      <path
+        d="m178 160.4v41.8l37 16.8v-41.8z"
+        fill="#479222"
+        data-original="#0f4c81"
+        class=""
+      ></path>
+      <path
+        d="m30 93.5v41.8l37 16.8v-41.8z"
+        fill="#479222"
+        data-original="#0f4c81"
+        class=""
+      ></path>
+      <g fill="#597ba1">
+        <path
+          d="m215 43.4 37 16.6v-33.4z"
+          fill="#66cc33"
+          data-original="#597ba1"
+          class=""
+        ></path>
+        <path
+          d="m215 76.8 37 16.7v-33.5z"
+          fill="#66cc33"
+          data-original="#597ba1"
+          class=""
+        ></path>
+        <path
+          d="m215 110.3v33.4l37-16.7v-33.5z"
+          fill="#66cc33"
+          data-original="#597ba1"
+          class=""
+        ></path>
+        <path
+          d="m215 177.2v41.8l185-83.7v-41.8z"
+          fill="#66cc33"
+          data-original="#597ba1"
+          class=""
+        ></path>
+        <path
+          d="m67 110.3v41.8l111-50.3v-41.8z"
+          fill="#66cc33"
+          data-original="#597ba1"
+          class=""
+        ></path>
+      </g>
+    </g>
+  </g>
+</svg>
