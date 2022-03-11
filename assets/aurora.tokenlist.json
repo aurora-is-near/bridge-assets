@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-03-08T20:56:18+00:00",
+  "timestamp": "2022-03-11T03:00:43+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -44,6 +44,15 @@
       "name": "Meta Token",
       "decimals": 24,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/$meta.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+      "symbol": "aUSDO",
+      "name": "aUSDO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aUSDO.svg",
       "tags": []
     },
     {
@@ -758,7 +767,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
