@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0x39a15a0695c77cbe5fd4f06ab0ccb7bad62f696f",
+    "aurora_address": "0xd9a4c034e69e5162ac02bec627475470a53c9a14",
+    "name": "rMutantCoin",
+    "symbol": "rMC",
+    "decimals": 18,
+    "near_address": "39a15a0695c77cbe5fd4f06ab0ccb7bad62f696f.factory.bridge.near",
+    "icon": "",
+    "reference": "",
+    "reference_hash": ""
+}
