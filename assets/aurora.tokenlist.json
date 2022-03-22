@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-03-11T03:00:43+00:00",
+  "timestamp": "2022-03-22T02:36:38+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -210,6 +210,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
+      "symbol": "BBT",
+      "name": "BlueBit Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bbt.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -767,7 +776,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
