@@ -1,7 +1,7 @@
 {
     "ethereum_address": "0x0000000000085d4780b73119b644ae5ecd22b376",
-    "aurora_address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
     "near_address": "0000000000085d4780b73119b644ae5ecd22b376.factory.bridge.near",
+    "aurora_address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
