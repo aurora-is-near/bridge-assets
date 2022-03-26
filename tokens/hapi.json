@@ -1,6 +1,7 @@
 {
     "ethereum_address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
-    "aurora_address": "",
+    "near_address": "d9c2d319cd7e6177336b0a9c93c21cb48d84fb54.factory.bridge.near",
+    "aurora_address": "0x943f4bf75d5854e92140403255a471950ab8a26f",
     "name": "HAPI",
     "symbol": "HAPI",
     "decimals": 18,
