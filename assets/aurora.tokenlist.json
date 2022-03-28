@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-03-22T02:36:38+00:00",
+  "timestamp": "2022-03-27T13:08:52+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -297,6 +297,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xfbd1d8dce2f97bc14239fd507183b98ff1354b39",
+      "symbol": "DLTA",
+      "name": "delta.theta",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dlta.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
       "symbol": "DODO",
       "name": "DODO bird",
@@ -361,6 +372,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x943f4bf75d5854e92140403255a471950ab8a26f",
+      "symbol": "HAPI",
+      "name": "HAPI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hapi.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x6454e4a4891c6b78a5a85304d34558dda5f3d6d8",
       "symbol": "JUMBO",
       "name": "Jumbo Exchange",
@@ -400,6 +422,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c",
+      "symbol": "LUNAR",
+      "name": "LUNAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/lunar.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -558,11 +589,31 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x221292443758f63563a1ed04b547278b05845fcb",
+      "symbol": "REF",
+      "name": "Ref Finance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ref.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x18921f1e257038e538ba24d49fa6495c8b1617bc",
       "symbol": "REN",
       "name": "Republic",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ren.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xd9a4c034e69e5162ac02bec627475470a53c9a14",
+      "symbol": "rMC",
+      "name": "rMutantCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/rmc.svg",
       "tags": [
         "ethereum"
       ]
@@ -626,6 +677,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tri.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tusd.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -776,7 +838,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
