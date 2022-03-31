@@ -1,6 +1,7 @@
 {
-    "ethereum_address": "0x7cC183Af8d90015e5AA935A5240bE1c2b367B877",
-    "aurora_address": "0x3d4205511c25ccd29e3fff6fba0d321b44bb7980",
+    "ethereum_address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+    "near_address": "1ab43204a195a0fd37edec621482afd3792ef90b.factory.bridge.near",
+    "aurora_address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
     "name": "Aurigami Token",
     "symbol": "PLY",
     "decimals": 18,
