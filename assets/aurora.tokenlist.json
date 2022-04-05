@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-03-27T13:08:52+00:00",
+  "timestamp": "2022-04-05T19:17:24+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -403,6 +403,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x918dbe087040a41b786f0da83190c293dae24749",
+      "symbol": "LINEAR",
+      "name": "LiNEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/linear.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x94190d8ef039c670c6d6b9990142e0ce2a1e3178",
       "symbol": "LINK",
       "name": "ChainLink Token",
@@ -563,6 +572,17 @@
       "name": "PickleToken",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pickle.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
+      "symbol": "PLY",
+      "name": "Aurigami Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ply.svg",
       "tags": [
         "ethereum"
       ]
@@ -838,7 +858,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }
