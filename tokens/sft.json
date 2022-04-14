@@ -1,7 +1,7 @@
 {
-  "ethereum_address": "0xa9fa94e65b5b0fae48535bb91015cfb85b36fbcf",
-  "aurora_address": "0xdaf82d7906b47ecc765c12c355a60c1e7dcbe348",
-  "near_address": "a9fa94e65b5b0fae48535bb91015cfb85b36fbcf.factory.bridge.near",
+  "ethereum_address": "0x0aabcc65ef352ad84b1326df188c95b6ab856c1c",
+  "aurora_address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
+  "near_address": "0aabcc65ef352ad84b1326df188c95b6ab856c1c.factory.bridge.near",
   "name": "Scorefam",
   "symbol": "SFT",
   "decimals": 8,
