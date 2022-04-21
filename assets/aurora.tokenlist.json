@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-04-17T14:40:13+00:00",
+  "timestamp": "2022-04-21T23:33:45+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -154,6 +154,17 @@
       "name": "ANGLE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/angle.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x645322989d07131a23dfc57b57f745b15e936a59",
+      "symbol": "ANS",
+      "name": "ANS.BEST - knowledgeFi",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ans.svg",
       "tags": [
         "ethereum"
       ]
@@ -523,6 +534,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x3564a4e03fe38fde627ed639b6d7d5dbe9ba2461",
+      "symbol": "OCEAN",
+      "name": "Ocean Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ocean.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x951cfdc9544b726872a8faf56792ef6704731aae",
       "symbol": "OCT",
       "name": "Octopus Network Token",
@@ -634,6 +656,17 @@
       "name": "rMutantCoin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/rmc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
+      "symbol": "SFT",
+      "name": "Scorefam",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sft.svg",
       "tags": [
         "ethereum"
       ]
@@ -867,7 +900,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   }
 }
