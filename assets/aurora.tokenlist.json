@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-04-21T23:33:45+00:00",
+  "timestamp": "2022-04-26T11:06:22+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -374,6 +374,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x6961775A3Cafa23fcd24Df8F9b72fc98692B9288",
+      "symbol": "GATA",
+      "name": "Gata Protocol Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/gata.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56",
       "symbol": "HAK",
       "name": "Hakuna Matata",
@@ -388,6 +397,17 @@
       "name": "HAPI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hapi.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x95f09a800e80a17eac1ba746489c48a1e012d855",
+      "symbol": "HBTC",
+      "name": "Huobi BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hbtc.svg",
       "tags": [
         "ethereum"
       ]
@@ -797,6 +817,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x5183e1b1091804bc2602586919e6880ac1cf2896",
+      "symbol": "USN",
+      "name": "USN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usn.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x098d5b6a26bca1d71f2335805d71b244f94e8a5f",
       "symbol": "UST",
       "name": "Wrapped UST Token",
@@ -900,7 +929,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   }
 }
