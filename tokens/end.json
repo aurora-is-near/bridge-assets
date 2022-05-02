@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0x7f5c4aded107f66687e6e55dee36a3a8fa3de030",
+    "near_address": "7f5c4aded107f66687e6e55dee36a3a8fa3de030.factory.bridge.near",
     "aurora_address": "0x7916afb40e8d776e9002477d4bad56767711b8e7",
     "name": "Endemic",
     "symbol": "END",
