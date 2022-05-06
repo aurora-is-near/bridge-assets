@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-04-26T11:06:22+00:00",
+  "timestamp": "2022-05-06T15:02:19+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -168,6 +168,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x2ab98d9ea81af20037af1a4f43cc3e6977545840",
+      "symbol": "ATO",
+      "name": "Atocha Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ato.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -308,6 +317,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x72f9fedef0fb0fc8db22453b692f7d5a17b98a66",
+      "symbol": "DBIO",
+      "name": "Debio",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dbio.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xfbd1d8dce2f97bc14239fd507183b98ff1354b39",
       "symbol": "DLTA",
       "name": "delta.theta",
@@ -324,6 +342,17 @@
       "name": "DODO bird",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7916afb40e8d776e9002477d4bad56767711b8e7",
+      "symbol": "END",
+      "name": "Endemic",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/end.svg",
       "tags": [
         "ethereum"
       ]
@@ -929,7 +958,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   }
 }
