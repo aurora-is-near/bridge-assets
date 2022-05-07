@@ -1,5 +1,6 @@
 {
     "ethereum_address": "",
+    "near_address": "fusotao-token.near",
     "aurora_address": "0x7538162F05BEc5084A92a5F47C2A094fCF73e372",
     "name": "FUSOTAO",
     "symbol": "TAO",
