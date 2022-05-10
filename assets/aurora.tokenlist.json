@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-05-06T15:02:19+00:00",
+  "timestamp": "2022-05-10T16:26:02+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -545,6 +545,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xeaf7246db327a10f2560ce8c7aab2a176b7a1272",
+      "symbol": "MYRIA",
+      "name": "Myria",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/myria.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3",
       "symbol": "NDOL",
       "name": "Necc Dollars",
@@ -635,6 +644,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xb145d9ba4cbe0498a725b00f703e9af5266e0aae",
+      "symbol": "PEM",
+      "name": "PembRock",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pem.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -770,6 +788,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7538162F05BEc5084A92a5F47C2A094fCF73e372",
+      "symbol": "TAO",
+      "name": "FUSOTAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tao.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -958,7 +985,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   }
 }
