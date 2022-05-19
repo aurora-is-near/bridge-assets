@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "aurora_address": "0x941b45cb782cced9814821e9b684261fa353bcd5",
+    "near_address":"0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "reference": null,
+    "reference_hash": null
+}
