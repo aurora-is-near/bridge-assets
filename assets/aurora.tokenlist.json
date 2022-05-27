@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-05-10T16:26:02+00:00",
+  "timestamp": "2022-05-27T11:23:13+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -356,6 +356,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
+      "symbol": "ETHERNAL",
+      "name": "ETHERNAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ethernal.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -862,6 +871,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x941b45cb782cced9814821e9b684261fa353bcd5",
+      "symbol": "USDD",
+      "name": "Decentralized USD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdd.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
       "symbol": "USDT",
       "name": "TetherUS",
@@ -985,7 +1005,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   }
 }
