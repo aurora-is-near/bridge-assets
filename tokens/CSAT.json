@@ -1,6 +1,6 @@
 {
     "ethereum_address": "0xe98dc84788c1ddb87de57a8765f3b5526c4c428d",
-    "aurora_address": "0x4988a896b12272180xe98dc84788c1ddb87de57a8765f3b5526c4c428de4a686fde5eabdcabd91571f",
+    "aurora_address": "0xe98dc84788c1ddb87de57a8765f3b5526c4c428d",
     "name": "CSat Token",
     "symbol": "CSAT",
     "decimals": 18,
