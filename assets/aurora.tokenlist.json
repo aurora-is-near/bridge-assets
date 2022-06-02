@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-05-27T11:23:13+00:00",
+  "timestamp": "2022-06-02T22:35:50+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -258,6 +258,15 @@
       "name": "Bizverse",
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bive.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x0240ae04c9f47b91cf47ca2e7ef44c9de0d385ac",
+      "symbol": "BRRR",
+      "name": "Burrow Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/brrr.svg",
       "tags": []
     },
     {
@@ -749,6 +758,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
+      "symbol": "PAD",
+      "name": "SmartPad token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/smartpad.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xdc9be1ff012d3c6da818d136a3b2e5fdd4442f74",
       "symbol": "SNX",
       "name": "Synthetix Network Token",
@@ -1005,7 +1023,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   }
 }
