@@ -1,0 +1,8 @@
+{
+  "ethereum_address": "0xce4b0a0e6a305107a4d2ed5ce8c8c40cf2bb5de4",
+  "near_address": "ce4b0a0e6a305107a4d2ed5ce8c8c40cf2bb5de4.factory.goerli.testnet",
+  "aurora_address": "0xa3e55a52b159f93e8854fb8873dbbb3edf5bf160",
+  "name": "RJSDTSTT",
+  "symbol": "RJSDT",
+  "decimals": 18
+}
