@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-06-02T22:35:50+00:00",
+  "timestamp": "2022-06-09T00:03:49+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -110,18 +110,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_busd.svg",
       "tags": [
-        "allbridge"
-      ]
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
-      "symbol": "PAD",
-      "name": "SmartPad Token - Allbridge",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_smartpad.svg",
-      "tags": [
-        "ethereum",
         "allbridge"
       ]
     },
@@ -521,6 +509,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x30975aCac70B5d774D6f756ACd03a9B90CD4D4F5",
+      "symbol": "MCOIN",
+      "name": "Mutant Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mcoin.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
       "symbol": "MECHA",
       "name": "Mecha",
@@ -640,6 +637,15 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
+      "symbol": "ORBITAL",
+      "name": "ORBITAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/orbital.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -1022,8 +1028,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 17,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
