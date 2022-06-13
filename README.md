@@ -36,10 +36,11 @@ To add a new asset, please follow these steps:
 
    ERC-20: https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
    NEP-141: https://explorer.mainnet.near.org/accounts/dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near
-   Aurora ERC-20: https://explorer.mainnet.aurora.dev/address/0x4988a896b1227218e4A686fdE5EabdcAbd91571f
+   Aurora ERC-20 (BlockScout): https://explorer.mainnet.aurora.dev/address/0x4988a896b1227218e4A686fdE5EabdcAbd91571f
+   Aurora ERC-20 (Aurorascan): https://aurorascan.dev/address/0x4988a896b1227218e4A686fdE5EabdcAbd91571f
    ```
 5. Aurora team will review your PR and update the metadata of your token. Always check the deployment status [here](https://rainbowbridge.app/deploy) (contract addresses, on-chain metadata, and storage registration when bridging to Aurora )
 6. If your asset is being bridged not via Rainbow Bridge but using some other bridge, make sure to also add an abbreviation of the bridge to JSON and SVG files as a prefix. E.g. if you used Allbridge for USDT token, the file names should be `abr_usdt.json` and `abr_usdt.svg` respectively.
 
 ## Adding a new asset (Testnet)
-In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`. 
+In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`.
