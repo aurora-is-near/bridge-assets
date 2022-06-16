@@ -1,7 +1,7 @@
 {
-    "ethereum_address": "0x5fd6ae6256bca4f0567e76b400924128ca7d8de0",
-    "aurora_address": "0x5fd6ae6256bca4f0567e76b400924128ca7d8de0",
-    "near_address": "5fd6ae6256bca4f0567e76b400924128ca7d8de0.factory.goerli.testnet",
+    "ethereum_address": "0x189ad84364395faf58df275ee66f417d73571bec",
+    "aurora_address": "0x189ad84364395faf58df275ee66f417d73571bec",
+    "near_address": "189ad84364395faf58df275ee66f417d73571bec.factory.goerli.testnet",
     "name": "Uplift",
     "symbol": "LIFT",
     "decimals": 18,
