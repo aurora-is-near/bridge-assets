@@ -43,4 +43,7 @@ To add a new asset, please follow these steps:
 6. If your asset is being bridged not via Rainbow Bridge but using some other bridge, make sure to also add an abbreviation of the bridge to JSON and SVG files as a prefix. E.g. if you used Allbridge for USDT token, the file names should be `abr_usdt.json` and `abr_usdt.svg` respectively.
 
 ## Adding a new asset (Testnet)
-In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`.
+1. In case you want to add your Testnet token as well, please use the same procedure describe above, but use your `symbol` of ERC-20 and `_testnet` suffix within the file name. E.g.: `usdt_testnet.json`, `usdt_testnet.svg`.
+2. Pull request's name should have the following name: "[TESTNET] <SYMBOL_OF_YOUR_ERC20_TOKEN> token metadata" (e.g. "[TESTNET] Add USDT token metadata").
+3. The first line in the pull request's description should be "# [TESTNET] Add <SYMBOL_OF_YOUR_ERC20_TOKEN> token metadata" (e.g. "# [TESTNET] Add USDT token metadata").
+4. Please note that we don't update metadata on Aurora for Testnet tokens.

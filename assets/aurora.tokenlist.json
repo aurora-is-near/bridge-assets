@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-06-09T00:03:49+00:00",
+  "timestamp": "2022-06-21T15:51:35+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -483,6 +483,17 @@
       "name": "ChainLink Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/link.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7c9f09d9c56e5aae95f20a9077911b982341ca67",
+      "symbol": "LTS",
+      "name": "Lights",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/lts.svg",
       "tags": [
         "ethereum"
       ]
@@ -1029,7 +1040,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
