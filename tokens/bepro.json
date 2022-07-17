@@ -1,0 +1,8 @@
+{
+    "ethereum_address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+    "near_address": "cf3c8be2e2c42331da80ef210e9b1b307c03d36a.factory.bridge.near",
+    "aurora_address": "0x672ea93e5486c04464209a655ad0c503c62024d9",
+    "name": "BetProtocolToken",
+    "symbol": "BEPRO",
+    "decimals": 18
+}
