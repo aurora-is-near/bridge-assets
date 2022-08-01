@@ -1,0 +1,8 @@
+{
+    "ethereum_address": "",
+    "near_address": "near_starter_token.near",
+    "aurora_address": "0x06aebb0f3d9ebe9829e1b67bd3dd608f711d3412",
+    "name": "Near starter",
+    "symbol": "NSTART",
+    "decimals": 24
+}
