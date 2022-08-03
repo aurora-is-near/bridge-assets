@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a",
+    "near_address": "f56b164efd3cfc02ba739b719b6526a6fa1ca32a.factory.bridge.near",
     "aurora_address": "0xcc84668daae56f9f2ef907ce79c8ca0d4fdb12a7",
     "name": "Curio Governance Token",
     "symbol": "CGT",
