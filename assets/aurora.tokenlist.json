@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-06-21T15:51:35+00:00",
+  "timestamp": "2022-08-21T22:58:01+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -179,6 +179,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x7ba718083591c70ce0c1720f7be314968950acf7",
+      "symbol": "AURORA_2211",
+      "name": "AURORA_2022_11_18",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora_2211.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xb4530aa877d25e51c18677753acd80ffa54009b2",
       "symbol": "AVRIT",
       "name": "Avrit Learning",
@@ -230,6 +241,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x672ea93e5486c04464209a655ad0c503c62024d9",
+      "symbol": "BEPRO",
+      "name": "BetProtocolToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bepro.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xe4baf0af161bf03434d1c5a53957981493c12c99",
       "symbol": "bHOME",
       "name": "bHome",
@@ -264,6 +286,17 @@
       "name": "Bastion",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bstn.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xcc84668daae56f9f2ef907ce79c8ca0d4fdb12a7",
+      "symbol": "CGT",
+      "name": "Curio Governance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/cgt.svg",
       "tags": [
         "ethereum"
       ]
@@ -589,6 +622,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xb94772a8bea7dafb5a6cb19507e216ee2df8077e",
+      "symbol": "NearX",
+      "name": "NearX",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nearx.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x6EBA841F1201fFDDe7DDC2ba995D3308f6C4aEa0",
       "symbol": "NECC",
       "name": "Necc",
@@ -614,6 +656,15 @@
       "name": "Wrapped Staked Necc",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nnecc.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x06aebb0f3d9ebe9829e1b67bd3dd608f711d3412",
+      "symbol": "NSTART",
+      "name": "Near starter",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nstart.svg",
       "tags": []
     },
     {
@@ -758,6 +809,17 @@
       "name": "rMutantCoin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/rmc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84",
+      "symbol": "SD",
+      "name": "Stader",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sd.svg",
       "tags": [
         "ethereum"
       ]
@@ -937,6 +999,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
+      "symbol": "USP",
+      "name": "USP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usp.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x098d5b6a26bca1d71f2335805d71b244f94e8a5f",
       "symbol": "UST",
       "name": "Wrapped UST Token",
@@ -1040,7 +1111,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
