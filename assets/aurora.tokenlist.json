@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-08-21T22:58:01+00:00",
+  "timestamp": "2022-08-23T01:48:41+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -180,7 +180,7 @@
     {
       "chainId": 1313161554,
       "address": "0x7ba718083591c70ce0c1720f7be314968950acf7",
-      "symbol": "AURORA_2211",
+      "symbol": "AURORA-2211",
       "name": "AURORA_2022_11_18",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora_2211.svg",
@@ -1112,6 +1112,6 @@
   "version": {
     "major": 2,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
