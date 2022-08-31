@@ -4,6 +4,7 @@
     "name": "Pressence DAO",
     "symbol": "PRESENCE",
     "decimals": 18,
+    "near_address": "c6903b623f1548f533eb367f6f1b7d717b9351c2.factory.bridge.near",
     "icon": "",
     "reference": "",
     "reference_hash": ""
