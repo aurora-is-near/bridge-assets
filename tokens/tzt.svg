@@ -1,0 +1,46 @@
+<svg width="500" height="500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="250" cy="250" r="250" fill="url(#a)"/>
+  <circle cx="250" cy="250" r="250" fill="url(#b)" fill-opacity=".2"/>
+  <circle cx="250" cy="250" r="250" fill="url(#c)" fill-opacity=".2"/>
+  <g filter="url(#d)">
+    <path d="M90.59 157.96 250 65.93l159.41 92.03v184.08L250 434.07 90.59 342.04V157.96Z" stroke="#fff" stroke-width="12"/>
+    <path d="M178.06 208.46 250 166.93l71.94 41.53v83.08L250 333.07l-71.94-41.53v-83.08Z" stroke="#fff" stroke-width="12"/>
+    <rect x="344.85" y="191.34" width="6.56" height="26.32" rx="3.28" transform="rotate(60 344.85 191.34)" fill="#fff"/>
+    <rect x="376.75" y="172.92" width="6.56" height="26.32" rx="3.28" transform="rotate(60 376.75 172.92)" fill="#fff"/>
+    <rect x="408.66" y="154.5" width="7.25" height="26.32" rx="3.62" transform="rotate(60 408.66 154.5)" fill="#fff"/>
+    <rect x="246" y="407.54" width="7.25" height="26.27" rx="3.63" fill="#fff"/>
+    <rect x="246.93" y="407.73" width="7.25" height="26.27" rx="3.63" fill="#fff"/>
+    <rect x="246" y="370.77" width="7.25" height="26.27" rx="3.63" fill="#fff"/>
+    <rect x="246" y="334" width="7.25" height="26.27" rx="3.63" fill="#fff"/>
+    <rect x="151.81" y="197.36" width="7.25" height="26.32" rx="3.62" transform="rotate(-60 151.8 197.36)" fill="#fff"/>
+    <rect x="119.9" y="178.94" width="7.25" height="26.32" rx="3.62" transform="rotate(-60 119.9 178.94)" fill="#fff"/>
+    <rect x="88" y="160.52" width="7.25" height="26.32" rx="3.62" transform="rotate(-60 88 160.52)" fill="#fff"/>
+    <rect x="245.54" y="253.59" width="12" height="88.6" rx="6" transform="rotate(-60 245.54 253.6)" fill="#fff"/>
+    <rect x="244" y="164" width="12" height="88" rx="6" fill="#fff"/>
+    <rect x="250.41" y="242.23" width="12" height="90.54" rx="6" transform="rotate(60 250.4 242.23)" fill="#fff"/>
+  </g>
+  <defs>
+    <linearGradient id="a" x1="250" y1="0" x2="250" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2FD8EF"/>
+      <stop offset="1" stop-color="#836FD0"/>
+    </linearGradient>
+    <linearGradient id="b" x1="425" y1="421" x2="250" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C0F"/>
+      <stop offset="1" stop-color="#EDA2AF"/>
+    </linearGradient>
+    <linearGradient id="c" x1="250" y1="250" x2="62" y2="409" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DFCC23"/>
+      <stop offset="1" stop-color="#3EB8D3"/>
+    </linearGradient>
+    <filter id="d" x="84.59" y="59.77" width="330.82" height="384.45" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_24_130"/>
+    </filter>
+  </defs>
+</svg>
