@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-08-23T01:48:41+00:00",
+  "timestamp": "2022-09-18T17:39:46+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -622,6 +622,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x11fffdcb623b4882daed70eb22c2bf51215178dc",
+      "symbol": "NEARIA",
+      "name": "Near Index Alpha Pool",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nearia.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xb94772a8bea7dafb5a6cb19507e216ee2df8077e",
       "symbol": "NearX",
       "name": "NearX",
@@ -770,6 +779,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/polar.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xf6db8e249099b909a764e46a9cc0c9309dcfd0ce",
+      "symbol": "PRESENCE",
+      "name": "Presence DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/presence.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -980,10 +1000,10 @@
     {
       "chainId": 1313161554,
       "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
-      "symbol": "USDT",
+      "symbol": "USDT.e",
       "name": "TetherUS",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.e.svg",
       "tags": [
         "ethereum"
       ]
@@ -1111,7 +1131,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 2,
-    "patch": 1
+    "minor": 3,
+    "patch": 0
   }
 }
