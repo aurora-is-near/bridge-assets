@@ -1,7 +1,7 @@
 {
     "ethereum_address": "0xC6903B623f1548f533Eb367f6f1B7d717b9351c2",
     "aurora_address": "0xf6db8e249099b909a764e46a9cc0c9309dcfd0ce",
-    "name": "Pressence DAO",
+    "name": "Presence DAO",
     "symbol": "PRESENCE",
     "decimals": 18,
     "near_address": "c6903b623f1548f533eb367f6f1b7d717b9351c2.factory.bridge.near",
