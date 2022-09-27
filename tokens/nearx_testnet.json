@@ -1,7 +1,7 @@
 {
     "ethereum_address": "",
-    "aurora_address": "0x65edf3f9fa66168f606c55d21e875e350ada190e",
-    "near_address": "nearx.staderlabs.testnet",
+    "aurora_address": "0xfd2557bdf5bee20681690f21ceda22fd8135cda8",
+    "near_address": "v2-nearx.staderlabs.testnet",
     "name": "NearX",
     "symbol": "NearX",
     "decimals": 24,
