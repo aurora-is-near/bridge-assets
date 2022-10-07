@@ -1,6 +1,7 @@
 {
     "ethereum_address": "",
-    "aurora_address": "",
+    "near_address": "token.v2.ref-finance.near",
+    "aurora_address": "0x221292443758f63563a1ed04b547278b05845fcb",
     "name": "Ref Finance Token",
     "symbol": "REF",
     "decimals": 18,

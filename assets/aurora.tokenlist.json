@@ -35,8 +35,26 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-01-22T13:24:16+00:00",
+  "timestamp": "2022-09-18T17:39:46+00:00",
   "tokens": [
+    {
+      "chainId": 1313161554,
+      "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
+      "symbol": "$META",
+      "name": "Meta Token",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/$meta.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+      "symbol": "aUSDO",
+      "name": "aUSDO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aUSDO.svg",
+      "tags": []
+    },
     {
       "chainId": 1313161554,
       "address": "0x4e834cdcc911605227eedddb89fad336ab9dc00a",
@@ -97,18 +115,6 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
-      "symbol": "PAD",
-      "name": "SmartPad Token - Allbridge",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_smartpad.svg",
-      "tags": [
-        "ethereum",
-        "allbridge"
-      ]
-    },
-    {
-      "chainId": 1313161554,
       "address": "0x0f00576d07B594Bdc1caf44b6014A6A02E5AFd48",
       "symbol": "SOL",
       "name": "SOL - Allbridge",
@@ -142,6 +148,26 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x645322989d07131a23dfc57b57f745b15e936a59",
+      "symbol": "ANS",
+      "name": "ANS.BEST - knowledgeFi",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ans.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x2ab98d9ea81af20037af1a4f43cc3e6977545840",
+      "symbol": "ATO",
+      "name": "Atocha Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ato.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
       "symbol": "AURORA",
       "name": "Aurora",
@@ -150,6 +176,26 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7ba718083591c70ce0c1720f7be314968950acf7",
+      "symbol": "AURORA-2211",
+      "name": "AURORA_2022_11_18",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora_2211.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xb4530aa877d25e51c18677753acd80ffa54009b2",
+      "symbol": "AVRIT",
+      "name": "Avrit Learning",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/avrit.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -186,11 +232,71 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
+      "symbol": "BBT",
+      "name": "BlueBit Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bbt.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x672ea93e5486c04464209a655ad0c503c62024d9",
+      "symbol": "BEPRO",
+      "name": "BetProtocolToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bepro.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xe4baf0af161bf03434d1c5a53957981493c12c99",
       "symbol": "bHOME",
-      "name": "bHOME",
+      "name": "bHome",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bhome.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x130e6203f05805cd8c44093a53c7b50775eb4ca3",
+      "symbol": "BIVE",
+      "name": "Bizverse",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bive.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x0240ae04c9f47b91cf47ca2e7ef44c9de0d385ac",
+      "symbol": "BRRR",
+      "name": "Burrow Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/brrr.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x9f1f933c660a1dc856f0e0fe058435879c5ccef0",
+      "symbol": "BSTN",
+      "name": "Bastion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bstn.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xcc84668daae56f9f2ef907ce79c8ca0d4fdb12a7",
+      "symbol": "CGT",
+      "name": "Curio Governance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/cgt.svg",
       "tags": [
         "ethereum"
       ]
@@ -241,11 +347,62 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x72f9fedef0fb0fc8db22453b692f7d5a17b98a66",
+      "symbol": "DBIO",
+      "name": "Debio",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dbio.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xfbd1d8dce2f97bc14239fd507183b98ff1354b39",
+      "symbol": "DLTA",
+      "name": "delta.theta",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dlta.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
       "symbol": "DODO",
       "name": "DODO bird",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7916afb40e8d776e9002477d4bad56767711b8e7",
+      "symbol": "END",
+      "name": "Endemic",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/end.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
+      "symbol": "ETHERNAL",
+      "name": "ETHERNAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ethernal.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xd5c997724e4b5756d08e6464c01afbc5f6397236",
+      "symbol": "FAME",
+      "name": "FAME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/fame.svg",
       "tags": [
         "ethereum"
       ]
@@ -285,12 +442,43 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x6961775A3Cafa23fcd24Df8F9b72fc98692B9288",
+      "symbol": "GATA",
+      "name": "Gata Protocol Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/gata.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56",
       "symbol": "HAK",
       "name": "Hakuna Matata",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hak.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x943f4bf75d5854e92140403255a471950ab8a26f",
+      "symbol": "HAPI",
+      "name": "HAPI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hapi.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x95f09a800e80a17eac1ba746489c48a1e012d855",
+      "symbol": "HBTC",
+      "name": "Huobi BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hbtc.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -314,11 +502,31 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x918dbe087040a41b786f0da83190c293dae24749",
+      "symbol": "LINEAR",
+      "name": "LiNEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/linear.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x94190d8ef039c670c6d6b9990142e0ce2a1e3178",
       "symbol": "LINK",
       "name": "ChainLink Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/link.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7c9f09d9c56e5aae95f20a9077911b982341ca67",
+      "symbol": "LTS",
+      "name": "Lights",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/lts.svg",
       "tags": [
         "ethereum"
       ]
@@ -333,6 +541,33 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c",
+      "symbol": "LUNAR",
+      "name": "LUNAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/lunar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x30975aCac70B5d774D6f756ACd03a9B90CD4D4F5",
+      "symbol": "MCOIN",
+      "name": "Mutant Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mcoin.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
+      "symbol": "MECHA",
+      "name": "Mecha",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mecha.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -369,6 +604,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xeaf7246db327a10f2560ce8c7aab2a176b7a1272",
+      "symbol": "MYRIA",
+      "name": "Myria",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/myria.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3",
       "symbol": "NDOL",
       "name": "Necc Dollars",
@@ -378,11 +622,20 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
-      "symbol": "wNEAR",
-      "name": "Wrapped NEAR fungible token",
+      "address": "0x11fffdcb623b4882daed70eb22c2bf51215178dc",
+      "symbol": "NEARIA",
+      "name": "Near Index Alpha Pool",
       "decimals": 24,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nearia.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xb94772a8bea7dafb5a6cb19507e216ee2df8077e",
+      "symbol": "NearX",
+      "name": "NearX",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nearx.svg",
       "tags": []
     },
     {
@@ -416,6 +669,26 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x06aebb0f3d9ebe9829e1b67bd3dd608f711d3412",
+      "symbol": "NSTART",
+      "name": "Near starter",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/nstart.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x3564a4e03fe38fde627ed639b6d7d5dbe9ba2461",
+      "symbol": "OCEAN",
+      "name": "Ocean Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ocean.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x951cfdc9544b726872a8faf56792ef6704731aae",
       "symbol": "OCT",
       "name": "Octopus Network Token",
@@ -438,6 +711,26 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
+      "symbol": "ORBITAL",
+      "name": "ORBITAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/orbital.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xc2aa4b56e325266e32582f5f5cece7e88f0c11d2",
+      "symbol": "PACHA",
+      "name": "PachaVerse DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pacha.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
       "symbol": "PAD",
       "name": "NearPad Token",
@@ -449,11 +742,51 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xb145d9ba4cbe0498a725b00f703e9af5266e0aae",
+      "symbol": "PEM",
+      "name": "PembRock",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pem.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x291c8fceaca3342b29cc36171deb98106f712c66",
       "symbol": "PICKLE",
       "name": "PickleToken",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pickle.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
+      "symbol": "PLY",
+      "name": "Aurigami Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ply.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+      "symbol": "POLAR",
+      "name": "POLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/polar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xf6db8e249099b909a764e46a9cc0c9309dcfd0ce",
+      "symbol": "PRESENCE",
+      "name": "Presence DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/presence.svg",
       "tags": [
         "ethereum"
       ]
@@ -471,6 +804,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x221292443758f63563a1ed04b547278b05845fcb",
+      "symbol": "REF",
+      "name": "Ref Finance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ref.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x18921f1e257038e538ba24d49fa6495c8b1617bc",
       "symbol": "REN",
       "name": "Republic",
@@ -479,6 +821,48 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xd9a4c034e69e5162ac02bec627475470a53c9a14",
+      "symbol": "rMC",
+      "name": "rMutantCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/rmc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84",
+      "symbol": "SD",
+      "name": "Stader",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sd.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
+      "symbol": "SFT",
+      "name": "Scorefam",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sft.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
+      "symbol": "PAD",
+      "name": "SmartPad token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/smartpad.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -493,6 +877,35 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x1BDA7007C9e3Bc33267E883864137aF8eb53CC2D",
+      "symbol": "SOLACE",
+      "name": "solace",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/solace.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+      "symbol": "SPOLAR",
+      "name": "SPOLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/spolar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x07f9f7f963c5cd2bbffd30ccfb964be114332e30",
+      "symbol": "STNEAR",
+      "name": "Staked NEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/stnear.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x7821c773a12485b12a2b5b7bc451c3eb200986b1",
       "symbol": "SUSHI",
       "name": "SushiToken",
@@ -504,12 +917,41 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x7538162F05BEc5084A92a5F47C2A094fCF73e372",
+      "symbol": "TAO",
+      "name": "FUSOTAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tao.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
       "symbol": "TRI",
       "name": "Trisolaris",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tri.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x60527a2751A827ec0Adf861EfcAcbf111587d748",
+      "symbol": "TRIPOLAR",
+      "name": "TRIPOLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tripolar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tusd.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -546,14 +988,43 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
-      "symbol": "USDT",
-      "name": "TetherUS",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "address": "0x941b45cb782cced9814821e9b684261fa353bcd5",
+      "symbol": "USDD",
+      "name": "Decentralized USD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdd.svg",
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+      "symbol": "USDT.e",
+      "name": "TetherUS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.e.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5183e1b1091804bc2602586919e6880ac1cf2896",
+      "symbol": "USN",
+      "name": "USN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usn.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
+      "symbol": "USP",
+      "name": "USP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usp.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -568,11 +1039,49 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x17bC24b9bDD8A3E7486E3C3458a5954412F2ff60",
+      "symbol": "VRA",
+      "name": "Virtual Reality Asset",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/vra.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+      "symbol": "WANNA",
+      "name": "WannaSwap",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wanna.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
       "symbol": "WBTC",
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wbtc.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "wNEAR",
+      "name": "Wrapped NEAR fungible token",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wnear.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x99ec8f13b2afef5ec49073b9d20df109d25f78c0",
+      "symbol": "WOO",
+      "name": "Wootrade Network",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/woo.svg",
       "tags": [
         "ethereum"
       ]
@@ -601,6 +1110,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
+      "symbol": "xTRI",
+      "name": "TriBar",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/xtri.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xa64514a8af3ff7366ad3d5daa5a548eefcef85e0",
       "symbol": "YFI",
       "name": "yearn.finance",
@@ -612,8 +1130,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 3,
     "patch": 0
   }
 }

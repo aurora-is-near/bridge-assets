@@ -1,0 +1,11 @@
+{
+  "ethereum_address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+  "near_address": "0316eb71485b0ab14103307bf65a021042c6d380.factory.bridge.near",
+  "aurora_address": "0x95f09a800e80a17eac1ba746489c48a1e012d855",
+  "name": "Huobi BTC",
+  "symbol": "HBTC",
+  "decimals": 18,
+  "icon": "data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'%3E%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' id='body_1' width='32' height='32'%3E%3Cg transform='matrix(1.3333334 0 0 1.3333334 0 0)'%3E%3Cimage x='0' y='0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAA/tJREFUWIXtln9oVWUYxz/vOc67iWtNS9IkjcSui8RUsv40TbLfVoZE5R+li1JJioqYFlKI/bBQo+417A+pTSgkiH5p0ETIBIvaaosiRcRqYVM3t3Oe97zv0x+eO27jXt1kWoFfOJzDeX59npf3fc6B8/o/atNXOmKocgVnEmSt3vOvAaxr1stEdN5QAQwbbIAV7kO0dqgABrUCDR9rpVhdJqIO4KUdmjmnAEnCMon0Uom18/ltekXVSNafM4CVH+h4SVglkUdEDwELgoBHNu7RG846wIomb2xCXoQLpMdhRX8GrnWWwMDWV5v9mLMK0JuYx8QyX3ocNlZEtAWY3HPcE51w47z4rU9t1zM60qc9BYu36ExreQWArgTjNB5WEbaqMjE+AVZcZAzhyMBPA74ZUoBFeT/aJrwPZJAE0+sA9o2p9aPiKCYMg2dC53NrFlUdHWzhAQEk1mzGMAFVzFEBpxjDrrg3qg3CYOr6+pqDUT477tlc9iHgOqAW6AT2YGisXNp++HQAppzhttf9LcaYjwDoEUy3ABAYbtz+QvXOOHdVqLjVwNNAqXkQA+sM4ZpM/Q+uXJ2yG8cmZpVYEFFspyCxYkW7vHO7JV8XKK4RWN2v+ALgMNCUvl+tuEbJ15WtU9Iwe63WiWWWWLBdFht5rCgS66YP114YefVPAgsLrMBc4DmD+Q5oAT4vSrcw9R84gLXMEQtiQdLuJVa1lrfi3JQaoKHIvQK4tbK+fU2mvm1/EAY3pxDfFvk0pHEDAxDLlWIViRy2O0FEEdG25jdrDip6O1BdKk+Uy272zjdhOATcVWSvTuMGCJBQJYkpLo6I/pSap5cI2Zne64C7USabwPwB+CKfUnFlV6BDrCLdCTbWwtVd6KafuzXGfBnlspOAN4wJLq+sb9+lXh/tl79/XHkAm+hesWB7fd8KxHHfP0BHkWsvsCWztK0LuBd4V9X/GOWzNZycB8XqoIRKDqLEmU+d0yNBwmgTa+H1tAnzOg1cv7vItRl4OX1uArqA2iAIurzzyj+1mxIquQL7N5pem/CimLB4D4y3ksw0ATuAA6nrTcAvcX7KJOABjNlmCPLe6QxOzoiCDpjA7BgwAEDizIZ4+PBPxFI4hljxT2SWtFtgOVDo8IiqzgXGovq44n8D3QtMTO0KLM8sabOl6pQdxQCjFmuV6+h+jz9P3NmXTJl/bN8ln0W57ArgtaImfgdC4OKiFB5YWVnfvqFcjVMCAIy43xtz8NiDelwacH6SwhFVZketY1uiXHZOCnF1idCWtPgXp8p/WoCCLrrDmuO//jWdxF+jQEXIOz2tY52+PdXEzs4AnUXf19B8nQkr9pmHv++/Ec/rv6e/AQ/TFRmUSxQZAAAAAElFTkSuQmCC' width='24' height='24'/%3E%3C/g%3E%3C/svg%3E",
+  "reference": "",
+  "reference_hash": ""
+}
