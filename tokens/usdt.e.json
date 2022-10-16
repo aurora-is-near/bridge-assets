@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "near_address": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
     "aurora_address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
     "name": "TetherUS",
     "symbol": "USDT.e",
