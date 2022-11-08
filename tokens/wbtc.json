@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "near_address": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
     "aurora_address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
