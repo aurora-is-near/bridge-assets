@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-09-18T17:39:46+00:00",
+  "timestamp": "2022-11-11T14:51:14+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -272,6 +272,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xa06fa703b95ed5224165edd94a8956a0cc4dec55",
+      "symbol": "BRGT",
+      "name": "Bridgit DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/brgt.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x0240ae04c9f47b91cf47ca2e7ef44c9de0d385ac",
       "symbol": "BRRR",
       "name": "Burrow Token",
@@ -308,6 +319,17 @@
       "name": "Compound",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/comp.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xe62233aeaed9b9ea007704262e15445e0d756c0b",
+      "symbol": "COR",
+      "name": "COR Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/cor.svg",
       "tags": [
         "ethereum"
       ]
@@ -372,6 +394,17 @@
       "name": "DODO bird",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xc51c983ea4c4c5a7e071999f600645efc26b03f1",
+      "symbol": "DPI",
+      "name": "DefiPulse Index",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dpi.svg",
       "tags": [
         "ethereum"
       ]
@@ -631,7 +664,7 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0xb94772a8bea7dafb5a6cb19507e216ee2df8077e",
+      "address": "0xb39eeb9e168ef6c639f5e282fef1f6bc4dcae375",
       "symbol": "NearX",
       "name": "NearX",
       "decimals": 24,
@@ -1130,8 +1163,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 3,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }
