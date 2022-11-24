@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+    "aurora_address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,<%3Fxml version='1.0' encoding='utf-8'%3F><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 32 32' style='enable-background:new 0 0 32 32;' xml:space='preserve'><style type='text/css'> .st0%7Bfill:%235CF5D8;%7D .st1%7Bfill:%23FFFFFF;%7D%0A</style><path d='M16,16'/><circle class='st0' cx='16' cy='16' r='15.9'/><path class='st1' d='M23.25,24.84h6.03c0.71-1.06,1.27-2.21,1.71-3.42h-4.05V7.16L15.98,18.15L5.09,7.22v14.19H1.01 c0.44,1.21,1.01,2.37,1.71,3.42h6.01v-8.9l7.31,7.33l7.2-7.22v1.91V24.84z'/><path d='M23.25,24.85v-6.88v-1.91l-7.2,7.22l-7.31-7.33v8.9H2.73c2.86,4.29,7.74,7.11,13.27,7.11s10.41-2.83,13.27-7.11H23.25z'/></svg>",
+    "reference": "",
+    "reference_hash": ""
+}
