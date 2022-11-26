@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-11-11T14:51:14+00:00",
+  "timestamp": "2022-11-26T23:52:05+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -289,6 +289,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/brrr.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4ee3e4e8286c9b22901041e3cb9105542d88810c",
+      "symbol": "BST",
+      "name": "BlocksquareToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bst.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -623,6 +634,51 @@
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x096f9fdda1e6f59ad2a8216bbd64daa9140222cc",
+      "symbol": "MOCK-CORN",
+      "name": "Mock Cornerstone",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_corn.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x45de93fdfb16508823da91819ee891eb78fe028a",
+      "symbol": "MOCK-LINEAR",
+      "name": "Mock LiNEAR",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_linear.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x8910fbcf56fd981b485648869b9ccee7305aa08d",
+      "symbol": "MOCK-USDC",
+      "name": "Mock USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_usdc.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x8f49abd8af60ca1b27ae796c1015fe696c316f74",
+      "symbol": "MOCK-USDT.e",
+      "name": "Mock Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_usdt.e.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x94b8bffc250c5aa3e13e8d864dd5fdedab54cb29",
+      "symbol": "MOCK-wNEAR",
+      "name": "Mock Wrapped NEAR fungible token",
+      "decimals": 24,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_wnear.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -1164,7 +1220,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
