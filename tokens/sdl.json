@@ -1,0 +1,11 @@
+{
+  "ethereum_address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+  "aurora_address": "0xeea1718cd20789b974be3631578531a0e813b4f8",
+  "near_address": "f1dc500fde233a4055e25e5bbf516372bc4f6871.factory.bridge.near",
+  "name": "Saddle DAO",
+  "symbol": "SDL",
+  "decimals": 18,
+  "icon": "",
+  "reference": null,
+  "reference_hash": null
+}
