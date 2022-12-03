@@ -1,6 +1,7 @@
 {
     "ethereum_address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
     "aurora_address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
+    "near_address": "035df12e0f3ac6671126525f1015e47d79dfeddf.factory.bridge.near",
     "name": "0xMonero",
     "symbol": "0xMR",
     "decimals": 18,
