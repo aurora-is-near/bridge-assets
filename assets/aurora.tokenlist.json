@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-11-26T23:52:05+00:00",
+  "timestamp": "2022-12-03T23:50:32+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1067,10 +1067,10 @@
     {
       "chainId": 1313161554,
       "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.svg",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.e.svg",
       "tags": [
         "ethereum"
       ]
@@ -1221,6 +1221,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
