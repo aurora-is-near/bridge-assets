@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
+    "near_address": "3231cb76718cdef2155fc47b5286d82e6eda273f.factory.bridge.near",
+    "aurora_address": "0xbf7d2104c990d1e91f3e1dc7e1418ae9af2c8d8a",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURe",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='Layer_1' data-name='Layer 1' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='linear-gradient' x1='137.5' x2='374.5' y1='50.7' y2='461.3' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%230095d7'/%3E%3Cstop offset='1' stop-color='%230072aa'/%3E%3C/linearGradient%3E%3Cstyle%3E .cls-1%7Bfill:%23fff%7D %3C/style%3E%3C/defs%3E%3Ccircle cx='256' cy='256' r='255' class='cls-1'/%3E%3Ccircle id='Ellipse_256' cx='256' cy='256' r='237.1' data-name='Ellipse 256' style='fill:url(%23linear-gradient)'/%3E%3Cpath d='m378 336-33-19a3 3 0 0 0-1 0 3 3 0 0 0-1 0 3 3 0 0 0-2 2 66 66 0 0 1-10 14 82 82 0 0 1-19 14 83 83 0 0 1-22 9 96 96 0 0 1-21 2 79 79 0 0 1-37-9 92 92 0 0 1-28-22 100 100 0 0 1-10-15l-4-7h83a3 3 0 0 0 3-3v-26a3 3 0 0 0-3-3h-93v-4a122 122 0 0 1-1-14l1-12v-4h93a3 3 0 0 0 3-3v-26a3 3 0 0 0-3-3h-84l3-7a100 100 0 0 1 9-13 86 86 0 0 1 28-24c11-6 24-9 39-9a99 99 0 0 1 21 2 85 85 0 0 1 21 8 75 75 0 0 1 29 28 3 3 0 0 0 2 2 3 3 0 0 0 1 0 3 3 0 0 0 2-1l30-21a3 3 0 0 0 1-4c-9-15-22-28-38-38-19-11-42-17-67-17-22 0-42 4-59 12a137 137 0 0 0-71 77v2l-1 3H74a3 3 0 0 0-3 3v26a3 3 0 0 0 3 3h58l-1 5a142 142 0 0 0 1 24v5H74a3 3 0 0 0-3 3v26a3 3 0 0 0 3 3h66l2 3a154 154 0 0 0 27 45 144 144 0 0 0 43 33c17 9 35 13 55 13a148 148 0 0 0 35-5 144 144 0 0 0 34-12 123 123 0 0 0 28-21 84 84 0 0 0 16-21 3 3 0 0 0-2-4Z' class='cls-1'/%3E%3C/svg%3E",
+    "reference": "",
+    "reference_hash": ""
+}
