@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "near_address": "6982508145454ce325ddbe47a25d4ec3d2311933.factory.bridge.near",
     "aurora_address": "0xa30400e73c489c47ff87455c470085ad590d1a84",
     "name": "Pepe",
     "symbol": "PEPE",
