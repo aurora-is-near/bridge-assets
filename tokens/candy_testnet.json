@@ -1,6 +1,7 @@
 {
     "ethereum_address": "0x34B0E1E1e9d97C0D09562C28986e602179c7b07C",
     "aurora_address": "0xa05f946a9da0986ccee2e2c917697e7a0d9ceab7",
+    "near_address": "34b0e1e1e9d97c0d09562c28986e602179c7b07c.factory.goerli.testnet",
     "name": "Candy",
     "symbol": "Candy",
     "decimals": 18,
