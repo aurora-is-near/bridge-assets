@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0xd6ea184b2ba1c3b0908c7f66185be686cd3ba9d9",
+    "near_address": "d6ea184b2ba1c3b0908c7f66185be686cd3ba9d9.factory.goerli.testnet",
+    "aurora_address": "0xa317cd170a1bb57e59fba14e7dad6305de7dde79",
+    "name": "Student House in Ljubljana",
+    "symbol": "BSPT-BS-8",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 140.26 140.26'%3e%3cdefs%3e%3cstyle%3e.cls-1%7bfill:%23fff;%7d.cls-2%7bfill:url(%23linear-gradient);%7d.cls-3%7bfill:url(%23linear-gradient-2);%7d.cls-4%7bfill:%23393d3f;%7d%3c/style%3e%3clinearGradient id='linear-gradient' y1='70.13' x2='140.26' y2='70.13' gradientUnits='userSpaceOnUse'%3e%3cstop offset='0' stop-color='%2300e8d2'/%3e%3cstop offset='1' stop-color='%23008a7d'/%3e%3c/linearGradient%3e%3clinearGradient id='linear-gradient-2' x1='35.41' y1='35.85' x2='94.41' y2='94.85' xlink:href='%23linear-gradient'/%3e%3c/defs%3e%3cg id='Layer_2' data-name='Layer 2'%3e%3cg id='gradient'%3e%3ccircle class='cls-1' cx='70.13' cy='70.13' r='70.13'/%3e%3cpath class='cls-2' d='M70.13,5A65.13,65.13,0,1,1,5,70.13,65.2,65.2,0,0,1,70.13,5m0-5a70.13,70.13,0,1,0,70.13,70.13A70.13,70.13,0,0,0,70.13,0Z'/%3e%3cpolygon class='cls-3' points='87.63 87.63 55.63 87.63 55.63 94.63 94.63 94.63 94.63 35.63 35.63 35.63 35.63 95.51 42.63 102.51 42.63 42.63 87.63 42.63 87.63 55.63 87.63 87.63'/%3e%3cpolygon class='cls-4' points='104.63 44.75 97.63 37.75 97.63 97.63 52.63 97.63 52.63 84.63 52.63 52.63 84.63 52.63 84.63 45.63 45.63 45.63 45.63 104.63 104.63 104.63 104.63 44.75'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e",
+    "reference": "",
+    "reference_hash": ""
+}
