@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2022-12-03T23:50:32+00:00",
+  "timestamp": "2023-07-28T23:42:51+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -45,6 +45,26 @@
       "decimals": 24,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/$meta.svg",
       "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x1FaD1C94E622f892a3F29796f9981D89571974c5",
+      "symbol": "2FLR",
+      "name": "Flare Gaming Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/2flr.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xbf7d2104c990d1e91f3e1dc7e1418ae9af2c8d8a",
+      "symbol": "EURe",
+      "name": "Monerium EUR emoney",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/EURe.svg",
+      "tags": [
+        "ethereum"
+      ]
     },
     {
       "chainId": 1313161554,
@@ -935,6 +955,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xeea1718cd20789b974be3631578531a0e813b4f8",
+      "symbol": "SDL",
+      "name": "Saddle DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sdl.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
       "symbol": "SFT",
       "name": "Scorefam",
@@ -1220,7 +1251,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   }
 }
