@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-07-28T23:42:51+00:00",
+  "timestamp": "2023-09-11T14:26:19+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -677,7 +677,7 @@
       "chainId": 1313161554,
       "address": "0x8910fbcf56fd981b485648869b9ccee7305aa08d",
       "symbol": "MOCK-USDC",
-      "name": "Mock USD Coin",
+      "name": "Mock Bridged USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mock_usdc.svg",
       "tags": []
@@ -1099,7 +1099,7 @@
       "chainId": 1313161554,
       "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
       "symbol": "USDC.e",
-      "name": "USD Coin",
+      "name": "Bridged USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.e.svg",
       "tags": [
@@ -1252,6 +1252,6 @@
   "version": {
     "major": 3,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
