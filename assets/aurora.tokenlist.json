@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-09-11T14:26:19+00:00",
+  "timestamp": "2023-11-14T21:55:15+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -546,6 +546,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x8189e2b881648804a175522047e63730876627d1",
+      "symbol": "JOVJOU",
+      "name": "JovJou",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/jovjou.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x6454e4a4891c6b78a5a85304d34558dda5f3d6d8",
       "symbol": "JUMBO",
       "name": "Jumbo Exchange",
@@ -944,6 +955,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xe3ff873c1e104118ec83310e39aafde17d18005d",
+      "symbol": "SCM",
+      "name": "Scamfari",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/scm.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84",
       "symbol": "SD",
       "name": "Stader",
@@ -1108,6 +1130,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x368ebb46aca6b8d0787c96b2b20bd3cc3f2c45f7",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x941b45cb782cced9814821e9b684261fa353bcd5",
       "symbol": "USDD",
       "name": "Decentralized USD",
@@ -1251,7 +1282,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 2,
-    "patch": 1
+    "minor": 3,
+    "patch": 0
   }
 }
