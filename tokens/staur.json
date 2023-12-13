@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "",
+    "aurora_address": "0x8A7feB26ee5b202804AC11Dd5a739A945C5De11d",
+    "name": "Staked Aurora",
+    "symbol": "STAUR",
+    "decimals": 18,
+    "icon": "data:image/svg+xml,%3C?xml version='1.0' encoding='UTF-8' standalone='no'?%3E %3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='19px' height='19px' viewBox='0 0 19 19' enable-background='new 0 0 19 19' xml:space='preserve'%3E %3Cimage id='image0' width='19' height='19' x='0' y='0' href='data:image/svg;base64,PHN2ZyB3aWR0aD0iMjA0IiBoZWlnaHQ9IjIwNCIgdmlld0JveD0iMCAwIDIwNCAyMDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8cmVjdCB4PSIwLjEyNSIgd2lkdGg9IjIwMy41MDEiIGhlaWdodD0iMjAzLjUwMSIgcng9IjEwMS43NTEiIGZpbGw9IiM1REVCNUEiLz4NCjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTAxLjg3NSAzOS4zODcyTDg2Ljc1MDggNTQuMzA0N0wxMDEuODc1IDY5LjIyMjFMMTE3IDU0LjMwNDdMMTAxLjg3NSAzOS4zODcyWk03Ny43NzEyIDYzLjAwNjZMNjMuMTMxNSA3Ny43MjI4TDEwMS42NjggMTE2LjQ2MUwxNDAuMjA1IDc3LjcyMjhMMTI1LjU2NSA2My4wMDY2TDEwMS42NjggODcuMDI4NEw3Ny43NzEyIDYzLjAwNjZaTTU0LjUyODYgODYuNjI2TDM5LjUxMjIgMTAxLjY2M0wxMDEuODc1IDE2NC4xMTRMMTY0LjIzOSAxMDEuNjYzTDE0OS4yMjIgODYuNjI2TDEwMS44NzYgMTM0LjAzOUw1NC41Mjg2IDg2LjYyNloiIGZpbGw9IiMwQzIyNDYiLz4NCjwvc3ZnPg0K' /%3E %3C/svg%3E",
+    "reference": "",
+    "reference_hash": ""
+}
