@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-11-14T21:55:15+00:00",
+  "timestamp": "2023-12-13T23:43:45+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1039,6 +1039,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x8A7feB26ee5b202804AC11Dd5a739A945C5De11d",
+      "symbol": "STAUR",
+      "name": "Staked Aurora",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/staur.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x07f9f7f963c5cd2bbffd30ccfb964be114332e30",
       "symbol": "STNEAR",
       "name": "Staked NEAR",
@@ -1282,7 +1291,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
