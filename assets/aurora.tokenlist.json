@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-12-13T23:43:45+00:00",
+  "timestamp": "2023-12-19T22:52:00+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -840,6 +840,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x3f4497ca5c0751948c03ca33e903d924651b90c2",
+      "symbol": "OTTO",
+      "name": "Otto Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/otto.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xc2aa4b56e325266e32582f5f5cece7e88f0c11d2",
       "symbol": "PACHA",
       "name": "PachaVerse DAO",
@@ -1291,7 +1302,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
