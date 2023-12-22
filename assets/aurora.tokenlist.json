@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-12-19T22:52:00+00:00",
+  "timestamp": "2023-12-22T17:19:10+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1010,6 +1010,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
+      "symbol": "SHITZU",
+      "name": "Shitzu",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/shitzu.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
       "symbol": "PAD",
       "name": "SmartPad token",
@@ -1302,7 +1311,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
