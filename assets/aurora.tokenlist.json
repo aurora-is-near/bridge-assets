@@ -1019,6 +1019,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
+      "symbol": "SHITZU",
+      "name": "SHITZU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/shitzu.webp",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xdc9be1ff012d3c6da818d136a3b2e5fdd4442f74",
       "symbol": "SNX",
       "name": "Synthetix Network Token",
