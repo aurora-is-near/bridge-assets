@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
+    "aurora_address": "0x4a1163f20e243fbfbcc08ed7471cc54518a54370",
+    "near_address": "a663b02cf0a4b149d2ad41910cb81e23e1c41c32.factory.bridge.near",
+    "name": "Staked FRAX",
+    "symbol": "sFRAX",
+    "decimals": 18,
+    "icon": "",
+    "reference": "",
+    "reference_hash": ""
+}
