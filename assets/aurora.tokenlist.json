@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-12-22T17:19:10+00:00",
+  "timestamp": "2024-01-17T01:38:09+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -999,6 +999,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x4a1163f20e243fbfbcc08ed7471cc54518a54370",
+      "symbol": "sFRAX",
+      "name": "Staked FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sfrax.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
       "symbol": "SFT",
       "name": "Scorefam",
@@ -1311,7 +1322,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
