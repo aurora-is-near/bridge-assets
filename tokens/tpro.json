@@ -5,7 +5,7 @@
     "name": "TPRO",
     "symbol": "TPRO",
     "decimals": 18,
-    "icon": "",
+    "icon": "data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'%3E%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='64.000000pt' height='64.000000pt' viewBox='0 0 64.000000 64.000000' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.000000,64.000000) scale(0.100000,-0.100000)'%0Afill='%23000000' stroke='none'%3E%3Cpath d='M228 626 c-201 -72 -284 -278 -186 -458 86 -158 272 -212 430 -126%0A158 86 212 272 126 430 -73 133 -237 201 -370 154z m229 -72 c167 -103 179%0A-333 25 -451 -117 -89 -288 -64 -379 55 -42 55 -57 111 -50 190 6 73 40 137%0A98 184 56 45 104 59 186 55 59 -3 82 -10 120 -33z'/%3E%3Cpath d='M190 420 l0 -30 130 0 130 0 0 30 0 30 -130 0 -130 0 0 -30z'/%3E%3Cpath d='M297 334 c-4 -4 -7 -45 -7 -91 l0 -83 30 0 31 0 -3 88 c-3 79 -5 87%0A-23 90 -12 2 -24 0 -28 -4z'/%3E%3C/g%3E%3C/svg%3E",
     "reference": "",
     "reference_hash": ""
 }
