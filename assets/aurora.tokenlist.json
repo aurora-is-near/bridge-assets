@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-01-17T01:38:09+00:00",
+  "timestamp": "2024-02-12T16:42:34+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1126,6 +1126,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x3540abE4f288B280A0740ad5121aEc337c404D15",
+      "symbol": "TPRO",
+      "name": "TPRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tpro.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
       "symbol": "TUSD",
       "name": "TrueUSD",
@@ -1322,7 +1333,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
