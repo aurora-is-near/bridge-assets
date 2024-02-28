@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-02-12T16:42:34+00:00",
+  "timestamp": "2024-02-28T16:44:44+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1126,17 +1126,6 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0x3540abE4f288B280A0740ad5121aEc337c404D15",
-      "symbol": "TPRO",
-      "name": "TPRO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/tpro.svg",
-      "tags": [
-        "ethereum"
-      ]
-    },
-    {
-      "chainId": 1313161554,
       "address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
       "symbol": "TUSD",
       "name": "TrueUSD",
@@ -1241,6 +1230,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x5172c657bcb6a8331cec033369b20c789acb9940",
+      "symbol": "UWON",
+      "name": "UWON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/uwon.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x17bC24b9bDD8A3E7486E3C3458a5954412F2ff60",
       "symbol": "VRA",
       "name": "Virtual Reality Asset",
@@ -1333,7 +1333,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
