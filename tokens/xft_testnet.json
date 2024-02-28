@@ -1,0 +1,11 @@
+{
+    "ethereum_address": "0xad2df84ca1e5432adbbcac730877076b2e1cb6a0",
+    "aurora_address": "0x71b5f32783d1d594b5e18c3e27e23514f2e5ce59",
+    "near_address": "ad2df84ca1e5432adbbcac730877076b2e1cb6a0.factory.goerli.testnet",
+    "name": "Token XFT",
+    "symbol": "XFT",
+    "decimals": 18,
+    "icon": "",
+    "reference": "",
+    "reference_hash": ""
+}
