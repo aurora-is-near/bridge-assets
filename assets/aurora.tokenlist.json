@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-02-28T16:44:44+00:00",
+  "timestamp": "2024-03-07T18:02:39+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1192,12 +1192,21 @@
       "chainId": 1313161554,
       "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
       "symbol": "USDT.e",
-      "name": "TetherUS",
+      "name": "Tether USD",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.e.svg",
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x80da25da4d783e57d2fcda0436873a193a4beccf",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -1333,7 +1342,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }
