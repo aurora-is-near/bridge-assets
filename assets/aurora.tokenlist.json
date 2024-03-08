@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-03-07T18:02:39+00:00",
+  "timestamp": "2024-03-08T14:41:42+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -733,6 +733,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x1CB8a13983A6ED1e3FebEe8B3B9CBdaec81Ca87F",
+      "symbol": "MZR",
+      "name": "MAZER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mzr.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3",
       "symbol": "NDOL",
       "name": "Necc Dollars",
@@ -1192,7 +1201,7 @@
       "chainId": 1313161554,
       "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
       "symbol": "USDT.e",
-      "name": "Tether USD",
+      "name": "Bridged USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.e.svg",
       "tags": [
@@ -1203,7 +1212,7 @@
       "chainId": 1313161554,
       "address": "0x80da25da4d783e57d2fcda0436873a193a4beccf",
       "symbol": "USDT",
-      "name": "Tether USD",
+      "name": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
       "tags": []
@@ -1341,8 +1350,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 10,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   }
 }
