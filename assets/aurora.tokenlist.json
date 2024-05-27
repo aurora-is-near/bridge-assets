@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2023-12-22T17:19:10+00:00",
+  "timestamp": "2024-03-08T14:41:42+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -733,6 +733,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x1CB8a13983A6ED1e3FebEe8B3B9CBdaec81Ca87F",
+      "symbol": "MZR",
+      "name": "MAZER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mzr.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xC86Ca2BB9C9c9c9F140d832dE00BfA9e153FA1e3",
       "symbol": "NDOL",
       "name": "Necc Dollars",
@@ -999,6 +1008,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x4a1163f20e243fbfbcc08ed7471cc54518a54370",
+      "symbol": "sFRAX",
+      "name": "Staked FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/sfrax.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xfc56694ab428e7b4a03b8299b502d4598d945217",
       "symbol": "SFT",
       "name": "Scorefam",
@@ -1181,12 +1201,21 @@
       "chainId": 1313161554,
       "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
       "symbol": "USDT.e",
-      "name": "TetherUS",
+      "name": "Bridged USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.e.svg",
       "tags": [
         "ethereum"
       ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x80da25da4d783e57d2fcda0436873a193a4beccf",
+      "symbol": "USDT",
+      "name": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+      "tags": []
     },
     {
       "chainId": 1313161554,
@@ -1213,6 +1242,17 @@
       "name": "Wrapped UST Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ust.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5172c657bcb6a8331cec033369b20c789acb9940",
+      "symbol": "UWON",
+      "name": "UWON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/uwon.svg",
       "tags": [
         "ethereum"
       ]
@@ -1310,8 +1350,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 6,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   }
 }
