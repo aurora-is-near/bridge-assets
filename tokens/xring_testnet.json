@@ -1,0 +1,8 @@
+{
+    "ethereum_address": "0x3beb2cf5c2c050bc575350671aa5f06e589386e8",
+    "aurora_address": "0x6eb9fde400e08ead608941253d0738b907c24e0a",
+    "near_address": "3beb2cf5c2c050bc575350671aa5f06e589386e8.factory.sepolia.testnet",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18
+}
