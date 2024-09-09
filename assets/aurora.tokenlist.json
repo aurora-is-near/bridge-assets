@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-03-08T14:41:42+00:00",
+  "timestamp": "2024-09-09T12:49:54+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1352,6 +1352,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
