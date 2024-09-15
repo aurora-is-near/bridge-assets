@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "0xa5171f62747dcd8ecb141874e6ba7828576f1c9e",
+    "aurora_address": "0x5b0c60cc1ad7e6bc3dd804fd9bf436987bc6a072",
+    "near_address": "a5171f62747dcd8ecb141874e6ba7828576f1c9e.factory.bridge.near",
+    "name": "aBTC",
+    "symbol": "aBTC",
+    "decimals": 18,
+    "icon": "https://token-images.alexlab.co/token-abtc"
+}
+    
