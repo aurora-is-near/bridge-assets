@@ -1,5 +1,6 @@
 {
     "ethereum_address": "0xa2aead85f89fc78f221a6259bd66a2072d3ed45c",
+    "near_address": "a2aead85f89fc78f221a6259bd66a2072d3ed45c.factory.bridge.near",
     "aurora_address": "0x392712237d9763fe7a19fd80b1de7fda1d41afe8",
     "name": "RealityChain",
     "symbol": "2D",
