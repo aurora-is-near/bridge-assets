@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-09-09T12:49:54+00:00",
+  "timestamp": "2024-10-18T15:18:00+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -142,6 +142,17 @@
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abr_sol.svg",
       "tags": [
         "allbridge"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5b0c60cc1ad7e6bc3dd804fd9bf436987bc6a072",
+      "symbol": "aBTC",
+      "name": "aBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/abtc.svg",
+      "tags": [
+        "ethereum"
       ]
     },
     {
@@ -724,6 +735,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xb64079dc31e0b28919e506d00f5cc50a74e7cabb",
+      "symbol": "MPETH",
+      "name": "MetaPoolETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mpeth.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0xeaf7246db327a10f2560ce8c7aab2a176b7a1272",
       "symbol": "MYRIA",
       "name": "Myria",
@@ -834,6 +856,17 @@
       "name": "oinfinance",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/oin.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xffc4c2429b6ff6d748523e95cdaf8d9d82fde7aa",
+      "symbol": "omUSD",
+      "name": "OpenMoney USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/omusd.svg",
       "tags": [
         "ethereum"
       ]
@@ -1351,7 +1384,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   }
 }
