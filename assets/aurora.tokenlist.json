@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-10-18T15:18:00+00:00",
+  "timestamp": "2024-10-29T14:04:12+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1363,6 +1363,15 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0xeAf7665969f1DaA3726CEADa7c40Ab27B3245993",
+      "symbol": "XPOLAR",
+      "name": "XPOLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/xpolar.svg",
+      "tags": []
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
       "symbol": "xTRI",
       "name": "TriBar",
@@ -1384,7 +1393,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
