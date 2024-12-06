@@ -35,7 +35,7 @@
       "description": "Tokens that were bridged using Allbridge"
     }
   },
-  "timestamp": "2024-10-29T14:04:12+00:00",
+  "timestamp": "2024-12-06T18:05:28+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
@@ -1168,6 +1168,17 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x91b72833c45844d2182b7bcb49a08ec927b14dca",
+      "symbol": "TURBO",
+      "name": "Turbo",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/turbo.svg",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x5454ba0a9e3552f7828616d80a9d2d869726e6f5",
       "symbol": "TUSD",
       "name": "TrueUSD",
@@ -1393,7 +1404,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   }
 }
