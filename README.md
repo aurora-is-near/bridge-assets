@@ -47,3 +47,15 @@ To add a new asset, please follow these steps:
 2. Pull request's name should have the following name: "[TESTNET] <SYMBOL_OF_YOUR_ERC20_TOKEN> token metadata" (e.g. "[TESTNET] Add USDT token metadata").
 3. The first line in the pull request's description should be "# [TESTNET] Add <SYMBOL_OF_YOUR_ERC20_TOKEN> token metadata" (e.g. "# [TESTNET] Add USDT token metadata").
 4. Please note that we don't update metadata on Aurora for Testnet tokens.
+
+## Withdrawal Process
+To facilitate the withdrawal process, follow these steps:
+
+1. Ensure you have the necessary permissions and access to initiate a withdrawal.
+2. Navigate to the withdrawal section in the application or platform.
+3. Select the token you wish to withdraw from the list of available tokens.
+4. Enter the withdrawal amount and the destination address.
+5. Confirm the withdrawal details and submit the request.
+6. Monitor the withdrawal status and wait for the transaction to be processed.
+
+For more detailed instructions and troubleshooting, refer to the official documentation or support resources provided by the platform.
