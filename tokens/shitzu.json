@@ -1,9 +1,10 @@
 {
     "ethereum_address": "",
-    "aurora_address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
+    "aurora_address": "0x253cdb138618702204fa5fe3ebb26a693c0c3d2c",
+    "near_address": "token.0xshitzu.near",
     "name": "Shitzu",
     "symbol": "SHITZU",
     "decimals": 18,
-    "reference": "",
-    "reference_hash": ""
+    "reference": "https://arweave.net/GfdGPlJ-KbDJNOaxBOfuYu4_2MTEcHy_pekU_trcgeU",
+    "reference_hash": "dXoCq1+KqiyI1UPfTW/gLajCK9zv+zcg1iaa47facD0="
 }
