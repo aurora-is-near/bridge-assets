@@ -1,0 +1,10 @@
+{
+    "ethereum_address": "",
+    "aurora_address": "",
+    "near_address": "token.publicailab.near",
+    "name": "PublicAI",
+    "symbol": "PUBLIC",
+    "decimals": 18,
+    "reference": "https://arweave.net/eB46ImzE5ZCkTzpfaIXHsbKkiInp0sthfumISACrJyE",
+    "reference_hash": "0TrRsdxtW60GPrysAGIoW3t5/NeI6CBKadIi5F7PdkI="
+}
