@@ -1,0 +1,10 @@
+{
+  "ethereum_address": "",
+  "aurora_address": "",
+  "near_address": "token.rhealab.near",
+  "name": "Rhea",
+  "symbol": "RHEA",
+  "decimals": 18,
+  "reference": "https://img.rhea.finance/logo/RheaSource.json",
+  "reference_hash": ""
+}
